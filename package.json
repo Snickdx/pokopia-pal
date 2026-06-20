@@ -1,0 +1,41 @@
+{
+  "name": "pokopia-pal",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/generatePwaIcons.js && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "setup:data": "node scripts/setup-local-data.mjs",
+    "seed": "node scripts/seedFirestore.js",
+    "seed:full": "npm run fetch:categories && npm run seed",
+    "deploy": "npm run build && firebase deploy --non-interactive",
+    "icons": "node scripts/generatePwaIcons.js",
+    "fetch:categories": "node scripts/fetch-item-categories.mjs"
+  },
+  "dependencies": {
+    "firebase": "^12.14.0",
+    "framer-motion": "^12.40.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^7.16.0",
+    "vite-plugin-pwa": "^1.3.0",
+    "workbox-window": "^7.4.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^10.3.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "firebase-admin": "^13.10.0",
+    "firebase-tools": "^14.11.0",
+    "globals": "^17.6.0",
+    "sharp": "^0.34.5",
+    "vite": "^8.0.12"
+  }
+}

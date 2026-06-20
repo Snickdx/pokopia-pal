@@ -1,0 +1,26 @@
+# Dependencies & build output
+node_modules/
+dist/
+.firebase/
+*.log
+.DS_Store
+
+# Secrets (never commit)
+.env
+.env.local
+.env.*.local
+sa.json
+
+# Windows: do not add firebase.js here — it shadows the Firebase CLI
+firebase.js
+
+# Copyrighted / infringing assets (do not commit)
+/public/assets/pokemon-favorites/
+/public/assets/poketracker/
+/public/assets/branding/logo-source.png
+/pokopia pal.png
+
+# Generated PWA / logo outputs (run npm run icons after adding logo-source.png)
+/public/pwa-*.png
+/public/assets/branding/logo.png
+/public/assets/branding/logo-nav.png

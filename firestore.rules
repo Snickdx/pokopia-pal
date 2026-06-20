@@ -1,0 +1,23 @@
+rules_version = '2';
+
+// Public read-only catalog (writes via Admin SDK / seed script only).
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /preferences/{documentId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /habitats/{documentId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /items/{documentId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /pokemon/{documentId} {
+      allow read: if true;
+      allow write: if false;
+    }
+  }
+}

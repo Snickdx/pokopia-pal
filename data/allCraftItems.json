@@ -1,0 +1,3104 @@
+{
+  "sources": [
+    "https://www.serebii.net/pokemonpokopia/crafting.shtml"
+  ],
+  "fetchedAt": "2026-06-09T23:44:19.422Z",
+  "items": [
+    {
+      "id": "storage-box",
+      "serebiiId": "storagebox",
+      "name": "Storage Box",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "wall-storage-box",
+      "serebiiId": "wallstoragebox",
+      "name": "Wall storage box",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "big-storage-box",
+      "serebiiId": "bigstoragebox",
+      "name": "Big Storage Box",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "plain-chest",
+      "serebiiId": "plainchest",
+      "name": "Plain chest",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "office-cabinet",
+      "serebiiId": "officecabinet",
+      "name": "Office cabinet",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "gaming-fridge",
+      "serebiiId": "gamingfridge",
+      "name": "Gaming fridge",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pok-ball-chest",
+      "serebiiId": "pokeballchest",
+      "name": "Poké Ball Chest",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "antique-chest",
+      "serebiiId": "antiquechest",
+      "name": "Antique chest",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "plain-closet",
+      "serebiiId": "plaincloset",
+      "name": "Plain closet",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "office-locker",
+      "serebiiId": "officelocker",
+      "name": "Office locker",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "antique-closet",
+      "serebiiId": "antiquecloset",
+      "name": "Antique closet",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "office-shelf",
+      "serebiiId": "officeshelf",
+      "name": "Office shelf",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "straw-table",
+      "serebiiId": "strawtable",
+      "name": "Straw table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "log-table",
+      "serebiiId": "logtable",
+      "name": "Log table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "side-table",
+      "serebiiId": "sidetable",
+      "name": "Side table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "garden-table",
+      "serebiiId": "gardentable",
+      "name": "Garden table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "wooden-table",
+      "serebiiId": "woodentable",
+      "name": "Wooden table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "counter",
+      "serebiiId": "counter",
+      "name": "Counter",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pok-mon-center-counter",
+      "serebiiId": "pokemoncentercounter",
+      "name": "Pokémon Center counter",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "kitchen-table",
+      "serebiiId": "kitchentable",
+      "name": "Kitchen table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "push-cart",
+      "serebiiId": "pushcart",
+      "name": "Push cart",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "exhibition-stand",
+      "serebiiId": "exhibitionstand",
+      "name": "Exhibition stand",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "plain-stand",
+      "serebiiId": "plainstand",
+      "name": "Plain stand",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "iron-stand",
+      "serebiiId": "ironstand",
+      "name": "Iron Stand",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "food-counter",
+      "serebiiId": "foodcounter",
+      "name": "Food counter",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "plain-table",
+      "serebiiId": "plaintable",
+      "name": "Plain table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "antique-table",
+      "serebiiId": "antiquetable",
+      "name": "Antique table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "industrial-desk",
+      "serebiiId": "industrialdesk",
+      "name": "Industrial desk",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "iron-table",
+      "serebiiId": "irontable",
+      "name": "Iron table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "office-desk",
+      "serebiiId": "officedesk",
+      "name": "Office desk",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "study-desk",
+      "serebiiId": "studydesk",
+      "name": "Study desk",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "cute-table",
+      "serebiiId": "cutetable",
+      "name": "Cute table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "iron-rack",
+      "serebiiId": "ironrack",
+      "name": "Iron rack",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "resort-table",
+      "serebiiId": "resorttable",
+      "name": "Resort table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "chic-table",
+      "serebiiId": "chictable",
+      "name": "Chic table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pop-art-table",
+      "serebiiId": "poparttable",
+      "name": "Pop art table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pok-ball-table",
+      "serebiiId": "pokeballtable",
+      "name": "Poké Ball table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "berry-table",
+      "serebiiId": "berrytable",
+      "name": "Berry table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "stone-table",
+      "serebiiId": "stonetable",
+      "name": "Stone table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "luxury-table",
+      "serebiiId": "luxurytable",
+      "name": "Luxury table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "office-table",
+      "serebiiId": "officetable",
+      "name": "Office table",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "straw-stool",
+      "serebiiId": "strawstool",
+      "name": "Straw stool",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "berry-chair",
+      "serebiiId": "berrychair",
+      "name": "Berry chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "simple-cushion",
+      "serebiiId": "simplecushion",
+      "name": "Simple cushion",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "log-chair",
+      "serebiiId": "logchair",
+      "name": "Log chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "plain-stool",
+      "serebiiId": "plainstool",
+      "name": "Plain stool",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "resort-stool",
+      "serebiiId": "resortstool",
+      "name": "Resort stool",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "stylish-stool",
+      "serebiiId": "stylishstool",
+      "name": "Stylish stool",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "industrial-chair",
+      "serebiiId": "industrialchair",
+      "name": "Industrial chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "waterproof-seat",
+      "serebiiId": "waterproofseat",
+      "name": "Waterproof seat",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "wooden-stool",
+      "serebiiId": "woodenstool",
+      "name": "Wooden stool",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "iron-chair",
+      "serebiiId": "ironchair",
+      "name": "Iron chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "public-seat",
+      "serebiiId": "publicseat",
+      "name": "Public seat",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "soft-seat",
+      "serebiiId": "softseat",
+      "name": "Soft seat",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "box-sofa",
+      "serebiiId": "boxsofa",
+      "name": "Box sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "plain-chair",
+      "serebiiId": "plainchair",
+      "name": "Plain chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "resort-chair",
+      "serebiiId": "resortchair",
+      "name": "Resort chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "chic-chair",
+      "serebiiId": "chicchair",
+      "name": "Chic chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "fancy-chair",
+      "serebiiId": "fancychair",
+      "name": "Fancy chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "antique-chair",
+      "serebiiId": "antiquechair",
+      "name": "Antique chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "spectator-chair",
+      "serebiiId": "spectatorchair",
+      "name": "Spectator chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "luxury-chair",
+      "serebiiId": "luxurychair",
+      "name": "Luxury chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "garden-chair",
+      "serebiiId": "gardenchair",
+      "name": "Garden chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "folding-chair",
+      "serebiiId": "foldingchair",
+      "name": "Folding chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "office-chair",
+      "serebiiId": "officechair",
+      "name": "Office chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "cute-chair",
+      "serebiiId": "cutechair",
+      "name": "Cute chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pop-art-chair",
+      "serebiiId": "popartchair",
+      "name": "Pop art chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "gaming-chair",
+      "serebiiId": "gamingchair",
+      "name": "Gaming chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "wooden-bench",
+      "serebiiId": "woodenbench",
+      "name": "Wooden bench",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "stone-bench",
+      "serebiiId": "stonebench",
+      "name": "Stone bench",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "plain-sofa",
+      "serebiiId": "plainsofa",
+      "name": "Plain sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "resort-sofa",
+      "serebiiId": "resortsofa",
+      "name": "Resort sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "chic-sofa",
+      "serebiiId": "chicsofa",
+      "name": "Chic sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "antique-sofa",
+      "serebiiId": "antiquesofa",
+      "name": "Antique sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "iron-bench",
+      "serebiiId": "ironbench",
+      "name": "Iron bench",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "industrial-bench",
+      "serebiiId": "industrialbench",
+      "name": "Industrial bench",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "luxury-sofa",
+      "serebiiId": "luxurysofa",
+      "name": "Luxury sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "garden-bench",
+      "serebiiId": "gardenbench",
+      "name": "Garden bench",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "cute-sofa",
+      "serebiiId": "cutesofa",
+      "name": "Cute sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pop-art-sofa",
+      "serebiiId": "popartsofa",
+      "name": "Pop art sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pok-ball-sofa",
+      "serebiiId": "pokeballsofa",
+      "name": "Poké Ball sofa",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "log-bed",
+      "serebiiId": "logbed",
+      "name": "Log bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "mini-plain-bed",
+      "serebiiId": "miniplainbed",
+      "name": "Mini plain bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "resort-bed",
+      "serebiiId": "resortbed",
+      "name": "Resort bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "iron-bed",
+      "serebiiId": "ironbed",
+      "name": "Iron bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "deck-chair",
+      "serebiiId": "deckchair",
+      "name": "Deck chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "beach-chair",
+      "serebiiId": "beachchair",
+      "name": "Beach chair",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "straw-bed",
+      "serebiiId": "strawbed",
+      "name": "Straw bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pop-art-bed",
+      "serebiiId": "popartbed",
+      "name": "Pop art bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "pok-ball-bed",
+      "serebiiId": "pokeballbed",
+      "name": "Poké Ball bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "berry-bed",
+      "serebiiId": "berrybed",
+      "name": "Berry bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "wooden-bed",
+      "serebiiId": "woodenbed",
+      "name": "Wooden bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "plain-bed",
+      "serebiiId": "plainbed",
+      "name": "Plain bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "resort-hammock",
+      "serebiiId": "resorthammock",
+      "name": "Resort hammock",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "antique-bed",
+      "serebiiId": "antiquebed",
+      "name": "Antique bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "industrial-bed",
+      "serebiiId": "industrialbed",
+      "name": "Industrial bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "luxury-bed",
+      "serebiiId": "luxurybed",
+      "name": "Luxury bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "cute-bed",
+      "serebiiId": "cutebed",
+      "name": "Cute bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "gaming-bed",
+      "serebiiId": "gamingbed",
+      "name": "Gaming bed",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "wall-mirror",
+      "serebiiId": "wallmirror",
+      "name": "Wall Mirror",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "large-mirror",
+      "serebiiId": "largemirror",
+      "name": "Large mirror",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "antique-dresser",
+      "serebiiId": "antiquedresser",
+      "name": "Antique dresser",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "luxury-dresser",
+      "serebiiId": "luxurydresser",
+      "name": "Luxury dresser",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "cute-dresser",
+      "serebiiId": "cutedresser",
+      "name": "Cute dresser",
+      "craftCategory": "Furniture"
+    },
+    {
+      "id": "wooden-plate",
+      "serebiiId": "woodenplate",
+      "name": "Wooden plate",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "plate",
+      "serebiiId": "plate",
+      "name": "Plate",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "party-platter",
+      "serebiiId": "partyplatter",
+      "name": "Party platter",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "picnic-basket",
+      "serebiiId": "picnicbasket",
+      "name": "Picnic basket",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "mug",
+      "serebiiId": "mug",
+      "name": "Mug",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "tea-set",
+      "serebiiId": "teaset",
+      "name": "Tea set",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "table-setting",
+      "serebiiId": "tablesetting",
+      "name": "Table setting",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "paper-party-cups",
+      "serebiiId": "paperpartycups",
+      "name": "Paper party cups",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "pizza",
+      "serebiiId": "pizza",
+      "name": "Pizza",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "fried-potatoes",
+      "serebiiId": "friedpotatoes",
+      "name": "Fried potatoes",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "soda-float",
+      "serebiiId": "sodafloat",
+      "name": "Soda float",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "afternoon-tea-set",
+      "serebiiId": "afternoonteaset",
+      "name": "Afternoon tea set",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "chocolate-cookies",
+      "serebiiId": "chocolatecookies",
+      "name": "Chocolate cookies",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "sandwiches",
+      "serebiiId": "sandwiches",
+      "name": "Sandwiches",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "shaved-ice",
+      "serebiiId": "shavedice",
+      "name": "Shaved ice",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "ribbon-cake",
+      "serebiiId": "ribboncake",
+      "name": "Ribbon cake",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "berry-basket",
+      "serebiiId": "berrybasket",
+      "name": "Berry basket",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "small-vase",
+      "serebiiId": "smallvase",
+      "name": "Small vase",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "extravagant-flowers",
+      "serebiiId": "extravagantflowers",
+      "name": "Extravagant flowers",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "small-garbage-can",
+      "serebiiId": "smallgarbagecan",
+      "name": "Small garbage can",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "pencil-holder",
+      "serebiiId": "pencilholder",
+      "name": "Pencil holder",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "fancy-pen",
+      "serebiiId": "fancypen",
+      "name": "Fancy pen",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "letter",
+      "serebiiId": "letter",
+      "name": "Letter",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "notepad",
+      "serebiiId": "notepad",
+      "name": "Notepad",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "book",
+      "serebiiId": "book",
+      "name": "Book",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "open-book",
+      "serebiiId": "openbook",
+      "name": "Open book",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "papers",
+      "serebiiId": "papers",
+      "name": "Papers",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "newspaper",
+      "serebiiId": "newspaper",
+      "name": "Newspaper",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "photo-frame",
+      "serebiiId": "photoframe",
+      "name": "Photo frame",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "wall-photo-frame",
+      "serebiiId": "wallphotoframe",
+      "name": "Wall photo frame",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "corkboard",
+      "serebiiId": "corkboard",
+      "name": "Corkboard",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "cd-rack",
+      "serebiiId": "cdrack",
+      "name": "CD rack",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "magazine-rack",
+      "serebiiId": "magazinerack",
+      "name": "Magazine rack",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "mini-bookcase",
+      "serebiiId": "minibookcase",
+      "name": "Mini bookcase",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "bookcase",
+      "serebiiId": "bookcase",
+      "name": "Bookcase",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "stone-fireplace",
+      "serebiiId": "stonefireplace",
+      "name": "Stone fireplace",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "dining-cabinet",
+      "serebiiId": "diningcabinet",
+      "name": "Dining cabinet",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "modern-sink",
+      "serebiiId": "modernsink",
+      "name": "Modern sink",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "cooking-stove",
+      "serebiiId": "cookingstove",
+      "name": "Cooking stove",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "microwave-oven",
+      "serebiiId": "microwaveoven",
+      "name": "Microwave oven",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "refrigerator",
+      "serebiiId": "refrigerator",
+      "name": "Refrigerator",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "fan",
+      "serebiiId": "fan",
+      "name": "Fan",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "air-conditioner",
+      "serebiiId": "airconditioner",
+      "name": "Air conditioner",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "printer",
+      "serebiiId": "printer",
+      "name": "Printer",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "washing-machine",
+      "serebiiId": "washingmachine",
+      "name": "Washing Machine",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "toilet",
+      "serebiiId": "toilet",
+      "name": "Toilet",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "sink",
+      "serebiiId": "sink",
+      "name": "Sink",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "towel-rack",
+      "serebiiId": "towelrack",
+      "name": "Towel rack",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "bathtime-set",
+      "serebiiId": "bathtimeset",
+      "name": "Bathtime set",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "cleaning-supplies",
+      "serebiiId": "cleaningsupplies",
+      "name": "Cleaning supplies",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "shower",
+      "serebiiId": "shower",
+      "name": "Shower",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "bathtub",
+      "serebiiId": "bathtub",
+      "name": "Bathtub",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "tablet",
+      "serebiiId": "tablet",
+      "name": "Tablet",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "cell-phone",
+      "serebiiId": "cellphone",
+      "name": "Cell phone",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "laptop",
+      "serebiiId": "laptop",
+      "name": "Laptop",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "computer",
+      "serebiiId": "computer",
+      "name": "Computer",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "gaming-pc",
+      "serebiiId": "gamingpc",
+      "name": "Gaming PC",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "television",
+      "serebiiId": "television",
+      "name": "Television",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "wall-monitor",
+      "serebiiId": "wallmonitor",
+      "name": "Wall monitor",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "alarm-clock",
+      "serebiiId": "alarmclock",
+      "name": "Alarm clock",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "toy-blocks",
+      "serebiiId": "toyblocks",
+      "name": "Toy blocks",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "pinwheels",
+      "serebiiId": "pinwheels",
+      "name": "Pinwheels",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "knitting-supplies",
+      "serebiiId": "knittingsupplies",
+      "name": "Knitting supplies",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "game-boy-system",
+      "serebiiId": "gameboysystem",
+      "name": "Game Boy system",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "humidifier",
+      "serebiiId": "humidifier",
+      "name": "Humidifier",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "first-aid-kit",
+      "serebiiId": "firstaidkit",
+      "name": "First aid kit",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "crystal-ball",
+      "serebiiId": "crystalball",
+      "name": "Crystal ball",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "microscope",
+      "serebiiId": "microscope",
+      "name": "Microscope",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "science-experiment",
+      "serebiiId": "scienceexperiment",
+      "name": "Science experiment",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "jumbled-cords",
+      "serebiiId": "jumbledcords",
+      "name": "Jumbled cords",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "cd-player",
+      "serebiiId": "cdplayer",
+      "name": "CD player",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "tabletop-mic",
+      "serebiiId": "tabletopmic",
+      "name": "Tabletop mic",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "standing-mic",
+      "serebiiId": "standingmic",
+      "name": "Standing mic",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "big-drum",
+      "serebiiId": "bigdrum",
+      "name": "Big drum",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "cool-electric-guitar",
+      "serebiiId": "coolelectricguitar",
+      "name": "Cool electric guitar",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "cool-bass-guitar",
+      "serebiiId": "coolbassguitar",
+      "name": "Cool bass guitar",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "audio-mixer",
+      "serebiiId": "audiomixer",
+      "name": "Audio mixer",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "speaker",
+      "serebiiId": "speaker",
+      "name": "Speaker",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "balloons",
+      "serebiiId": "balloons",
+      "name": "Balloons",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "punching-game",
+      "serebiiId": "punchinggame",
+      "name": "Punching game",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "step-stool",
+      "serebiiId": "stepstool",
+      "name": "Step stool",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "cardboard-boxes",
+      "serebiiId": "cardboardboxes",
+      "name": "Cardboard boxes",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "whiteboard",
+      "serebiiId": "whiteboard",
+      "name": "Whiteboard",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "control-unit",
+      "serebiiId": "controlunit",
+      "name": "Control unit",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "auspicious-armor",
+      "serebiiId": "auspiciousarmor",
+      "name": "Auspicious Armor",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "malicious-armor",
+      "serebiiId": "maliciousarmor",
+      "name": "Malicious Armor",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "clear-bell",
+      "serebiiId": "clearbell",
+      "name": "Clear Bell",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "tidal-bell",
+      "serebiiId": "tidalbell",
+      "name": "Tidal Bell",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "wall-calendar",
+      "serebiiId": "wallcalendar",
+      "name": "Wall calendar",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "wreath",
+      "serebiiId": "wreath",
+      "name": "Wreath",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "decorative-bookshelf",
+      "serebiiId": "decorativebookshelf",
+      "name": "Decorative bookshelf",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "decorative-storage-shelf",
+      "serebiiId": "decorativestorageshelf",
+      "name": "Decorative storage shelf",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "decorative-plant-shelf",
+      "serebiiId": "decorativeplantshelf",
+      "name": "Decorative plant shelf",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "antique-clock",
+      "serebiiId": "antiqueclock",
+      "name": "Antique clock",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "hanging-banner",
+      "serebiiId": "hangingbanner",
+      "name": "Hanging banner",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "party-bunting",
+      "serebiiId": "partybunting",
+      "name": "Party bunting",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "vine-wall-decoration",
+      "serebiiId": "vinewalldecoration",
+      "name": "Vine wall decoration",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "berry-wall-decoration",
+      "serebiiId": "berrywalldecoration",
+      "name": "Berry wall decoration",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "hanging-scroll",
+      "serebiiId": "hangingscroll",
+      "name": "Hanging scroll",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "ceiling-fan",
+      "serebiiId": "ceilingfan",
+      "name": "Ceiling fan",
+      "craftCategory": "Misc"
+    },
+    {
+      "id": "campfire",
+      "serebiiId": "campfire",
+      "name": "Campfire",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "torch",
+      "serebiiId": "torch",
+      "name": "Torch",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "slender-candle",
+      "serebiiId": "slendercandle",
+      "name": "Slender candle",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "wall-torch",
+      "serebiiId": "walltorch",
+      "name": "Wall torch",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "firepit",
+      "serebiiId": "firepit",
+      "name": "Firepit",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "bonfire",
+      "serebiiId": "bonfire",
+      "name": "Bonfire",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "sandbox",
+      "serebiiId": "sandbox",
+      "name": "Sandbox",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "tire-toy",
+      "serebiiId": "tiretoy",
+      "name": "Tire toy",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "concrete-pipe",
+      "serebiiId": "concretepipe",
+      "name": "Concrete pipe",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "punching-bag",
+      "serebiiId": "punchingbag",
+      "name": "Punching bag",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "slide",
+      "serebiiId": "slide",
+      "name": "Slide",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "vending-machine",
+      "serebiiId": "vendingmachine",
+      "name": "Vending machine",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "chansey-plant",
+      "serebiiId": "chanseyplant",
+      "name": "Chansey plant",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "planter",
+      "serebiiId": "planter",
+      "name": "Planter",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "garden-flowers",
+      "serebiiId": "gardenflowers",
+      "name": "Garden flowers",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "cart",
+      "serebiiId": "cart",
+      "name": "Cart",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "perch",
+      "serebiiId": "perch",
+      "name": "Perch",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "wooden-birdhouse",
+      "serebiiId": "woodenbirdhouse",
+      "name": "Wooden birdhouse",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "mailbox",
+      "serebiiId": "mailbox",
+      "name": "Mailbox",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "weather-vane",
+      "serebiiId": "weathervane",
+      "name": "Weather vane",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "gravestone",
+      "serebiiId": "gravestone",
+      "name": "Gravestone",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "blank-canvas",
+      "serebiiId": "blankcanvas",
+      "name": "Blank canvas",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "cannon",
+      "serebiiId": "cannon",
+      "name": "Cannon",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "bell",
+      "serebiiId": "bell",
+      "name": "Bell",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "small-stage",
+      "serebiiId": "smallstage",
+      "name": "Small stage",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "water-basin",
+      "serebiiId": "waterbasin",
+      "name": "Water basin",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "canoe",
+      "serebiiId": "canoe",
+      "name": "Canoe",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "inflatable-boat",
+      "serebiiId": "inflatableboat",
+      "name": "Inflatable boat",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "beach-parasol",
+      "serebiiId": "beachparasol",
+      "name": "Beach parasol",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "arrow-sign",
+      "serebiiId": "arrowsign",
+      "name": "Arrow sign",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "menu-board",
+      "serebiiId": "menuboard",
+      "name": "Menu board",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "sign",
+      "serebiiId": "sign",
+      "name": "Sign",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "signpost",
+      "serebiiId": "signpost",
+      "name": "Signpost",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "information-board",
+      "serebiiId": "informationboard",
+      "name": "Information board",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "worn-wooden-crate",
+      "serebiiId": "wornwoodencrate",
+      "name": "Worn wooden crate",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "wooden-crate",
+      "serebiiId": "woodencrate",
+      "name": "Wooden crate",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "barrel",
+      "serebiiId": "barrel",
+      "name": "Barrel",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "garbage-bags",
+      "serebiiId": "garbagebags",
+      "name": "Garbage bags",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "garbage-bin",
+      "serebiiId": "garbagebin",
+      "name": "Garbage bin",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "recycling-bin",
+      "serebiiId": "recyclingbin",
+      "name": "Recycling bin",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "traffic-cone",
+      "serebiiId": "trafficcone",
+      "name": "Traffic cone",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "fire-hydrant",
+      "serebiiId": "firehydrant",
+      "name": "Fire hydrant",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "sandbags",
+      "serebiiId": "sandbags",
+      "name": "Sandbags",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "excavation-tools",
+      "serebiiId": "excavationtools",
+      "name": "Excavation tools",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "tires",
+      "serebiiId": "tires",
+      "name": "Tires",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "metal-drum",
+      "serebiiId": "metaldrum",
+      "name": "Metal drum",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "construction-supplies",
+      "serebiiId": "constructionsupplies",
+      "name": "Construction supplies",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "iron-pipes",
+      "serebiiId": "ironpipes",
+      "name": "Iron pipes",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "wheelbarrow",
+      "serebiiId": "wheelbarrow",
+      "name": "Wheelbarrow",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "large-ventilation-fan",
+      "serebiiId": "largeventilationfan",
+      "name": "Large ventilation fan",
+      "craftCategory": "Outdoor"
+    },
+    {
+      "id": "ditto-flag",
+      "serebiiId": "dittoflag",
+      "name": "Ditto flag",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "workbench",
+      "serebiiId": "workbench",
+      "name": "Workbench",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "community-box",
+      "serebiiId": "communitybox",
+      "name": "Community box",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "frame",
+      "serebiiId": "frame",
+      "name": "Frame",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "cutting-board",
+      "serebiiId": "cuttingboard",
+      "name": "Cutting board",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "frying-pan",
+      "serebiiId": "fryingpan",
+      "name": "Frying pan",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "stylish-frying-pan",
+      "serebiiId": "stylishfryingpan",
+      "name": "Stylish frying pan",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "cooking-pot",
+      "serebiiId": "cookingpot",
+      "name": "Cooking pot",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "stylish-cooking-pot",
+      "serebiiId": "stylishcookingpot",
+      "name": "Stylish cooking pot",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "bread-oven",
+      "serebiiId": "breadoven",
+      "name": "Bread oven",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "smelting-furnace",
+      "serebiiId": "smeltingfurnace",
+      "name": "Smelting furnace",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "metallic-smelting-furnace",
+      "serebiiId": "metallicsmeltingfurnace",
+      "name": "Metallic smelting furnace",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "concrete-mixer",
+      "serebiiId": "concretemixer",
+      "name": "Concrete mixer",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "railway-track",
+      "serebiiId": "railwaytrack",
+      "name": "Railway track",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "crossing-gate",
+      "serebiiId": "crossinggate",
+      "name": "Crossing gate",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "handcar",
+      "serebiiId": "handcar",
+      "name": "Handcar",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "elevator-platform",
+      "serebiiId": "elevatorplatform",
+      "name": "Elevator platform",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "lift-platform",
+      "serebiiId": "liftplatform",
+      "name": "Lift platform",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "cash-register",
+      "serebiiId": "cashregister",
+      "name": "Cash register",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "sprinkler",
+      "serebiiId": "sprinkler",
+      "name": "Sprinkler",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "mini-floodgate",
+      "serebiiId": "minifloodgate",
+      "name": "Mini floodgate",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "utility-pole",
+      "serebiiId": "utilitypole",
+      "name": "Utility pole",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "wireless-power-transmitter",
+      "serebiiId": "wirelesspowertransmitter",
+      "name": "Wireless power transmitter",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "mini-generator",
+      "serebiiId": "minigenerator",
+      "name": "Mini generator",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "floor-switch",
+      "serebiiId": "floorswitch",
+      "name": "Floor switch",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "wall-switch",
+      "serebiiId": "wallswitch",
+      "name": "Wall switch",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "card-reader",
+      "serebiiId": "cardreader",
+      "name": "Card reader",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "laser-sensor",
+      "serebiiId": "lasersensor",
+      "name": "Laser sensor",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "mushroom-streetlight",
+      "serebiiId": "mushroomstreetlight",
+      "name": "Mushroom streetlight",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "town-streetlight",
+      "serebiiId": "townstreetlight",
+      "name": "Town streetlight",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "harbor-streetlight",
+      "serebiiId": "harborstreetlight",
+      "name": "Harbor streetlight",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "chic-streetlight",
+      "serebiiId": "chicstreetlight",
+      "name": "Chic streetlight",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "double-streetlight",
+      "serebiiId": "doublestreetlight",
+      "name": "Double streetlight",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "mushroom-lamp",
+      "serebiiId": "mushroomlamp",
+      "name": "Mushroom lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "plain-lamp",
+      "serebiiId": "plainlamp",
+      "name": "Plain lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "desk-light",
+      "serebiiId": "desklight",
+      "name": "Desk light",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "pok-ball-light",
+      "serebiiId": "pokeballlight",
+      "name": "Poké Ball light",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "berry-table-lamp",
+      "serebiiId": "berrytablelamp",
+      "name": "Berry table lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "cute-lamp",
+      "serebiiId": "cutelamp",
+      "name": "Cute lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "pok-ball-lamp",
+      "serebiiId": "pokeballlamp",
+      "name": "Poké Ball lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "model-planet",
+      "serebiiId": "modelplanet",
+      "name": "Model planet",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "luxury-lamp",
+      "serebiiId": "luxurylamp",
+      "name": "Luxury lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "garden-light",
+      "serebiiId": "gardenlight",
+      "name": "Garden light",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "lantern",
+      "serebiiId": "lantern",
+      "name": "Lantern",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "mirror-ball",
+      "serebiiId": "mirrorball",
+      "name": "Mirror  ball",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "wall-light",
+      "serebiiId": "walllight",
+      "name": "Wall light",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "shell-lamp",
+      "serebiiId": "shelllamp",
+      "name": "Shell lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "fluorescent-light",
+      "serebiiId": "fluorescentlight",
+      "name": "Fluorescent light",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "gaming-light",
+      "serebiiId": "gaminglight",
+      "name": "Gaming light",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "resort-light",
+      "serebiiId": "resortlight",
+      "name": "Resort light",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "string-lights",
+      "serebiiId": "stringlights",
+      "name": "String lights",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "pop-art-lamp",
+      "serebiiId": "popartlamp",
+      "name": "Pop art lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "berry-hanging-lamp",
+      "serebiiId": "berryhanginglamp",
+      "name": "Berry hanging lamp",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "surface-light",
+      "serebiiId": "surfacelight",
+      "name": "Surface light",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "spotlight",
+      "serebiiId": "spotlight",
+      "name": "Spotlight",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "antique-chandelier",
+      "serebiiId": "antiquechandelier",
+      "name": "Antique chandelier",
+      "craftCategory": "Utilities"
+    },
+    {
+      "id": "wooden-steps",
+      "serebiiId": "woodensteps",
+      "name": "Wooden steps",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "stylish-steps",
+      "serebiiId": "stylishsteps",
+      "name": "Stylish steps",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "stone-steps",
+      "serebiiId": "stonesteps",
+      "name": "Stone steps",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "concrete-steps",
+      "serebiiId": "concretesteps",
+      "name": "Concrete steps",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "brick-steps",
+      "serebiiId": "bricksteps",
+      "name": "Brick steps",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-steps",
+      "serebiiId": "ironsteps",
+      "name": "Iron steps",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-ladder",
+      "serebiiId": "woodenladder",
+      "name": "Wooden ladder",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-ladder",
+      "serebiiId": "ironladder",
+      "name": "Iron ladder",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wire",
+      "serebiiId": "wire",
+      "name": "Wire",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "metal-chain",
+      "serebiiId": "metalchain",
+      "name": "Metal chain",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "rope",
+      "serebiiId": "rope",
+      "name": "Rope",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "pulley",
+      "serebiiId": "pulley",
+      "name": "Pulley",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "rustic-door",
+      "serebiiId": "rusticdoor",
+      "name": "Rustic door",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "simple-door",
+      "serebiiId": "simpledoor",
+      "name": "Simple door",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "boat-door",
+      "serebiiId": "boatdoor",
+      "name": "Boat door",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "modern-door",
+      "serebiiId": "moderndoor",
+      "name": "Modern door",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "stylish-door",
+      "serebiiId": "stylishdoor",
+      "name": "Stylish door",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "brainy-door",
+      "serebiiId": "brainydoor",
+      "name": "Brainy door",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-door",
+      "serebiiId": "irondoor",
+      "name": "Iron door",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "large-wooden-door",
+      "serebiiId": "largewoodendoor",
+      "name": "Large wooden door",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "automatic-doors",
+      "serebiiId": "automaticdoors",
+      "name": "Automatic doors",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "shutter",
+      "serebiiId": "shutter",
+      "name": "Shutter",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-gate",
+      "serebiiId": "woodengate",
+      "name": "Wooden gate",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "swinging-doors",
+      "serebiiId": "swingingdoors",
+      "name": "Swinging doors",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-gate",
+      "serebiiId": "irongate",
+      "name": "Iron gate",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "hatch-window",
+      "serebiiId": "hatchwindow",
+      "name": "Hatch window",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "underground-hatch",
+      "serebiiId": "undergroundhatch",
+      "name": "Underground hatch",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "glass-window",
+      "serebiiId": "glasswindow",
+      "name": "Glass window",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "window-pane",
+      "serebiiId": "windowpane",
+      "name": "Window pane",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "sash-window",
+      "serebiiId": "sashwindow",
+      "name": "Sash window",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "sloped-tiled-roof",
+      "serebiiId": "slopedtiledroof",
+      "name": "Sloped tiled roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "tiled-hipped-roof",
+      "serebiiId": "tiledhippedroof",
+      "name": "Tiled hipped roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "tiled-roof-valley",
+      "serebiiId": "tiledroofvalley",
+      "name": "Tiled roof valley",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "flat-tiled-roof",
+      "serebiiId": "flattiledroof",
+      "name": "Flat tiled roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "tiled-roof-decoration",
+      "serebiiId": "tiledroofdecoration",
+      "name": "Tiled roof decoration",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "magikarp-decoration",
+      "serebiiId": "magikarpdecoration",
+      "name": "Magikarp decoration",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "sloped-stone-roof",
+      "serebiiId": "slopedstoneroof",
+      "name": "Sloped stone roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "skylight",
+      "serebiiId": "skylight",
+      "name": "Skylight",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "stone-hipped-roof",
+      "serebiiId": "stonehippedroof",
+      "name": "Stone hipped roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "stone-roof-valley",
+      "serebiiId": "stoneroofvalley",
+      "name": "Stone roof valley",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "flat-stone-roof",
+      "serebiiId": "flatstoneroof",
+      "name": "Flat stone roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "stone-roof-decoration",
+      "serebiiId": "stoneroofdecoration",
+      "name": "Stone roof decoration",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "pitched-brick-roof",
+      "serebiiId": "pitchedbrickroof",
+      "name": "Pitched brick roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "dormered-brick-roof",
+      "serebiiId": "dormeredbrickroof",
+      "name": "Dormered brick roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "brick-hipped-roof",
+      "serebiiId": "brickhippedroof",
+      "name": "Brick hipped roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "brick-roof-valley",
+      "serebiiId": "brickroofvalley",
+      "name": "Brick roof valley",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "flat-brick-roof",
+      "serebiiId": "flatbrickroof",
+      "name": "Flat brick roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "brick-roof-decoration",
+      "serebiiId": "brickroofdecoration",
+      "name": "Brick roof decoration",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "sloped-tent-roof",
+      "serebiiId": "slopedtentroof",
+      "name": "Sloped tent roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "tent-hipped-roof",
+      "serebiiId": "tenthippedroof",
+      "name": "Tent hipped roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "tent-roof-valley",
+      "serebiiId": "tentroofvalley",
+      "name": "Tent roof valley",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "flat-tent-roof",
+      "serebiiId": "flattentroof",
+      "name": "Flat tent roof",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "glossy-awning",
+      "serebiiId": "glossyawning",
+      "name": "Glossy awning",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "corrugated-metal",
+      "serebiiId": "corrugatedmetal",
+      "name": "Corrugated metal",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "protruding-wall",
+      "serebiiId": "protrudingwall",
+      "name": "Protruding wall",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "curved-eave",
+      "serebiiId": "curvedeave",
+      "name": "Curved eave",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-fencing",
+      "serebiiId": "woodenfencing",
+      "name": "Wooden fencing",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-enclosure",
+      "serebiiId": "woodenenclosure",
+      "name": "Wooden enclosure",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-enclosure",
+      "serebiiId": "ironenclosure",
+      "name": "Iron enclosure",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "metal-fencing",
+      "serebiiId": "metalfencing",
+      "name": "Metal fencing",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "stone-fencing",
+      "serebiiId": "stonefencing",
+      "name": "Stone fencing",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "boat-railing",
+      "serebiiId": "boatrailing",
+      "name": "Boat railing",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-handrail",
+      "serebiiId": "woodenhandrail",
+      "name": "Wooden handrail",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "handrail",
+      "serebiiId": "handrail",
+      "name": "Handrail",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "harbor-pole",
+      "serebiiId": "harborpole",
+      "name": "Harbor pole",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "arched-barrier",
+      "serebiiId": "archedbarrier",
+      "name": "Arched barrier",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-posts",
+      "serebiiId": "woodenposts",
+      "name": "Wooden posts",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-partition",
+      "serebiiId": "woodenpartition",
+      "name": "Wooden partition",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "grate-fencing",
+      "serebiiId": "gratefencing",
+      "name": "Grate fencing",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-path",
+      "serebiiId": "woodenpath",
+      "name": "Wooden path",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "stepping-stones",
+      "serebiiId": "steppingstones",
+      "name": "Stepping stones",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "walkway",
+      "serebiiId": "walkway",
+      "name": "Walkway",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "bridge-planks",
+      "serebiiId": "bridgeplanks",
+      "name": "Bridge planks",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "grate-flooring",
+      "serebiiId": "grateflooring",
+      "name": "Grate flooring",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "concrete-slab",
+      "serebiiId": "concreteslab",
+      "name": "Concrete slab",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-scaffold-plank",
+      "serebiiId": "ironscaffoldplank",
+      "name": "Iron scaffold plank",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-scaffold",
+      "serebiiId": "ironscaffold",
+      "name": "Iron scaffold",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "arch-bridge",
+      "serebiiId": "archbridge",
+      "name": "Arch bridge",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "sideways-log",
+      "serebiiId": "sidewayslog",
+      "name": "Sideways log",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "upright-log",
+      "serebiiId": "uprightlog",
+      "name": "Upright log",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-beam",
+      "serebiiId": "ironbeam",
+      "name": "Iron beam",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-column",
+      "serebiiId": "ironcolumn",
+      "name": "Iron column",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "iron-pillar",
+      "serebiiId": "ironpillar",
+      "name": "Iron pillar",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "house-partition",
+      "serebiiId": "housepartition",
+      "name": "House partition",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "simple-pillar-quarter",
+      "serebiiId": "simplepillarquarter",
+      "name": "Simple pillar quarter",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "water-pillar-quarter",
+      "serebiiId": "waterpillarquarter",
+      "name": "Water pillar quarter",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "roof-support",
+      "serebiiId": "roofsupport",
+      "name": "Roof support",
+      "craftCategory": "Buildings"
+    },
+    {
+      "id": "wooden-wall",
+      "serebiiId": "woodenwall",
+      "name": "Wooden wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "light-wooden-wall",
+      "serebiiId": "lightwoodenwall",
+      "name": "Light wooden wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "painted-wall",
+      "serebiiId": "paintedwall",
+      "name": "Painted wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "plaster-wall",
+      "serebiiId": "plasterwall",
+      "name": "Plaster wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "cloth-wall",
+      "serebiiId": "clothwall",
+      "name": "Cloth wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "cushy-wall",
+      "serebiiId": "cushywall",
+      "name": "Cushy wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "modern-wall",
+      "serebiiId": "modernwall",
+      "name": "Modern wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "cobblestone-wall",
+      "serebiiId": "cobblestonewall",
+      "name": "Cobblestone wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "brick-wall",
+      "serebiiId": "brickwall",
+      "name": "Brick wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stone-brick-wall",
+      "serebiiId": "stonebrickwall",
+      "name": "Stone brick wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "concrete-wall",
+      "serebiiId": "concretewall",
+      "name": "Concrete wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "rough-wall",
+      "serebiiId": "roughwall",
+      "name": "Rough wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "striped-wall",
+      "serebiiId": "stripedwall",
+      "name": "Striped wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "bronze-wall",
+      "serebiiId": "bronzewall",
+      "name": "Bronze wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stylish-bronze-wall",
+      "serebiiId": "stylishbronzewall",
+      "name": "Stylish bronze wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "iron-wall",
+      "serebiiId": "ironwall",
+      "name": "Iron wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stylish-iron-wall",
+      "serebiiId": "stylishironwall",
+      "name": "Stylish iron wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "gold-wall",
+      "serebiiId": "goldwall",
+      "name": "Gold wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stylish-gold-wall",
+      "serebiiId": "stylishgoldwall",
+      "name": "Stylish gold wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "crystal-wall",
+      "serebiiId": "crystalwall",
+      "name": "Crystal wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "pok-ball-wall",
+      "serebiiId": "pokeballwall",
+      "name": "Poké Ball Wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "warning-wall",
+      "serebiiId": "warningwall",
+      "name": "Warning wall",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "wooden-flooring",
+      "serebiiId": "woodenflooring",
+      "name": "Wooden flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "diagonal-wooden-flooring",
+      "serebiiId": "diagonalwoodenflooring",
+      "name": "Diagonal wooden flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "crisscross-wooden-flooring",
+      "serebiiId": "crisscrosswoodenflooring",
+      "name": "Crisscross wooden flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "hardwood-flooring",
+      "serebiiId": "hardwoodflooring",
+      "name": "Hardwood flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "modern-carpeting",
+      "serebiiId": "moderncarpeting",
+      "name": "Modern carpeting",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "woven-carpeting",
+      "serebiiId": "wovencarpeting",
+      "name": "Woven carpeting",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "fluffy-flooring",
+      "serebiiId": "fluffyflooring",
+      "name": "Fluffy flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "soft-carpeting",
+      "serebiiId": "softcarpeting",
+      "name": "Soft carpeting",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "extravagant-carpeting",
+      "serebiiId": "extravagantcarpeting",
+      "name": "Extravagant carpeting",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "tatami-mat",
+      "serebiiId": "tatamimat",
+      "name": "Tatami mat",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "felt-mat",
+      "serebiiId": "feltmat",
+      "name": "Felt mat",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "grass-flooring",
+      "serebiiId": "grassflooring",
+      "name": "Grass flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "simple-flooring",
+      "serebiiId": "simpleflooring",
+      "name": "Simple flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "marble",
+      "serebiiId": "marble",
+      "name": "Marble",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stone-flooring",
+      "serebiiId": "stoneflooring",
+      "name": "Stone flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "dark-marble-flooring",
+      "serebiiId": "darkmarbleflooring",
+      "name": "Dark marble flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "light-marble-flooring",
+      "serebiiId": "lightmarbleflooring",
+      "name": "Light marble flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "simple-square-tiling",
+      "serebiiId": "simplesquaretiling",
+      "name": "Simple square tiling",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stylish-tiling",
+      "serebiiId": "stylishtiling",
+      "name": "Stylish tiling",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "hexagonal-flooring",
+      "serebiiId": "hexagonalflooring",
+      "name": "Hexagonal flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "shop-flooring",
+      "serebiiId": "shopflooring",
+      "name": "Shop flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "iron-tiling",
+      "serebiiId": "irontiling",
+      "name": "Iron tiling",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "neon-flooring",
+      "serebiiId": "neonflooring",
+      "name": "Neon flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "cyber-flooring",
+      "serebiiId": "cyberflooring",
+      "name": "Cyber flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "arched-tiling",
+      "serebiiId": "archedtiling",
+      "name": "Arched tiling",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stone-tiling",
+      "serebiiId": "stonetiling",
+      "name": "Stone tiling",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "square-tiling",
+      "serebiiId": "squaretiling",
+      "name": "Square tiling",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "mosaic-tiling",
+      "serebiiId": "mosaictiling",
+      "name": "Mosaic tiling",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "brick-flooring",
+      "serebiiId": "brickflooring",
+      "name": "Brick flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stylish-stone-flooring",
+      "serebiiId": "stylishstoneflooring",
+      "name": "Stylish stone flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "asphalt-road",
+      "serebiiId": "asphaltroad",
+      "name": "Asphalt road",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "gray-circle-flooring",
+      "serebiiId": "graycircleflooring",
+      "name": "Gray circle flooring",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "hay-pile",
+      "serebiiId": "haypile",
+      "name": "Hay pile",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "iron-plating",
+      "serebiiId": "ironplating",
+      "name": "Iron plating",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "cube-light",
+      "serebiiId": "cubelight",
+      "name": "Cube light",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "foundation",
+      "serebiiId": "foundation",
+      "name": "Foundation",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "levee",
+      "serebiiId": "levee",
+      "name": "Levee",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "scrap-cube",
+      "serebiiId": "scrapcube",
+      "name": "Scrap cube",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "bubble-print",
+      "serebiiId": "bubbleprint",
+      "name": "Bubble print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "gingham-print",
+      "serebiiId": "ginghamprint",
+      "name": "Gingham print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "tartan-print",
+      "serebiiId": "tartanprint",
+      "name": "Tartan print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "argyle-print",
+      "serebiiId": "argyleprint",
+      "name": "Argyle print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "houndstooth-print",
+      "serebiiId": "houndstoothprint",
+      "name": "Houndstooth print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "vine-print",
+      "serebiiId": "vineprint",
+      "name": "Vine print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "swirl-print",
+      "serebiiId": "swirlprint",
+      "name": "Swirl print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "winter-print",
+      "serebiiId": "winterprint",
+      "name": "Winter print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "leaf-print",
+      "serebiiId": "leafprint",
+      "name": "Leaf print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "flower-print",
+      "serebiiId": "flowerprint",
+      "name": "Flower print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "star-print",
+      "serebiiId": "starprint",
+      "name": "Star print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "curry-print",
+      "serebiiId": "curryprint",
+      "name": "Curry print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "berry-print",
+      "serebiiId": "berryprint",
+      "name": "Berry print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "pok-ball-print",
+      "serebiiId": "pokeballprint",
+      "name": "Poké Ball Print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "stylish-pok-ball-print",
+      "serebiiId": "stylishpokeballprint",
+      "name": "Stylish Poké Ball Print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "carved-white-rock",
+      "serebiiId": "carvedwhiterock",
+      "name": "Carved white rock",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "carved-coarse-rock",
+      "serebiiId": "carvedcoarserock",
+      "name": "Carved coarse rock",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "carved-red-rock",
+      "serebiiId": "carvedredrock",
+      "name": "Carved red rock",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "carved-yellow-rock",
+      "serebiiId": "carvedyellowrock",
+      "name": "Carved yellow rock",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "cracked-sandstone",
+      "serebiiId": "crackedsandstone",
+      "name": "Cracked sandstone",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "dynamic-ditto-print",
+      "serebiiId": "dynamicdittoprint",
+      "name": "Dynamic Ditto print",
+      "craftCategory": "Blocks"
+    },
+    {
+      "id": "dowsing-machine",
+      "serebiiId": "dowsingmachine",
+      "name": "Dowsing Machine",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "neo-dowsing-machine",
+      "serebiiId": "neodowsingmachine",
+      "name": "Neo Dowsing Machine",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "party-popper",
+      "serebiiId": "partypopper",
+      "name": "Party popper",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "star-piece",
+      "serebiiId": "starpiece",
+      "name": "Star Piece",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "small-narrow-rug",
+      "serebiiId": "smallnarrowrug",
+      "name": "Small narrow rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "pok-ball-doormat",
+      "serebiiId": "pokeballdoormat",
+      "name": "Poké Ball doormat",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "small-round-rug",
+      "serebiiId": "smallroundrug",
+      "name": "Small round rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "small-square-rug",
+      "serebiiId": "smallsquarerug",
+      "name": "Small square rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "ditto-rug",
+      "serebiiId": "dittorug",
+      "name": "Ditto rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "oblong-rug",
+      "serebiiId": "oblongrug",
+      "name": "Oblong rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "ratan-rug",
+      "serebiiId": "ratanrug",
+      "name": "Ratan rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "large-round-rug",
+      "serebiiId": "largeroundrug",
+      "name": "Large round rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "lace-rug",
+      "serebiiId": "lacerug",
+      "name": "Lace rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "pok-ball-mat",
+      "serebiiId": "pokeballmat",
+      "name": "Poké Ball mat",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "large-narrow-rug",
+      "serebiiId": "largenarrowrug",
+      "name": "Large narrow rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "large-square-rug",
+      "serebiiId": "largesquarerug",
+      "name": "Large square rug",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "soft-mat",
+      "serebiiId": "softmat",
+      "name": "Soft mat",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "balloon-poster",
+      "serebiiId": "balloonposter",
+      "name": "Balloon Poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "moonlight-poster",
+      "serebiiId": "moonlightposter",
+      "name": "Moonlight poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "dance-poster",
+      "serebiiId": "danceposter",
+      "name": "Dance poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "oil-painting-poster",
+      "serebiiId": "oilpaintingposter",
+      "name": "Oil painting poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "sunny-poster",
+      "serebiiId": "sunnyposter",
+      "name": "Sunny poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "ice-cream-poster",
+      "serebiiId": "icecreamposter",
+      "name": "Ice cream poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "windmill-poster",
+      "serebiiId": "windmillposter",
+      "name": "Windmill poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "townscape-poster",
+      "serebiiId": "townscapeposter",
+      "name": "Townscape poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "mountain-poster",
+      "serebiiId": "mountainposter",
+      "name": "Mountain poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "acrylic-poster",
+      "serebiiId": "acrylicposter",
+      "name": "Acrylic poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "watercolor-poster",
+      "serebiiId": "watercolorposter",
+      "name": "Watercolor poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "passionate-poster",
+      "serebiiId": "passionateposter",
+      "name": "Passionate poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "speedy-poster",
+      "serebiiId": "speedyposter",
+      "name": "Speedy poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "growth-poster",
+      "serebiiId": "growthposter",
+      "name": "Growth poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "drink-poster",
+      "serebiiId": "drinkposter",
+      "name": "Drink poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "food-poster",
+      "serebiiId": "foodposter",
+      "name": "Food poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "technology-poster",
+      "serebiiId": "technologyposter",
+      "name": "Technology poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "golden-poster",
+      "serebiiId": "goldenposter",
+      "name": "Golden poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "ocean-poster",
+      "serebiiId": "oceanposter",
+      "name": "Ocean poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "meadow-poster",
+      "serebiiId": "meadowposter",
+      "name": "Meadow poster",
+      "craftCategory": "Other"
+    },
+    {
+      "id": "ninja-poster",
+      "serebiiId": "ninjaposter",
+      "name": "Ninja poster",
+      "craftCategory": "Other"
+    }
+  ]
+}

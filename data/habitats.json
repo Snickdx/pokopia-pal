@@ -1,0 +1,1798 @@
+{
+  "collection": "habitats",
+  "documentCount": 224,
+  "documents": [
+    {
+      "id": "00b533ebda768bad1809797202c6",
+      "slug": "00b533ebda768bad1809797202c6",
+      "label": "Graceful Flower Bed",
+      "details": "Graceful Flower Bed -\nMountain Flowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/148_cleffa_h1.png",
+      "completed": true
+    },
+    {
+      "id": "00e9f25396013606e2ffd9873a05",
+      "slug": "00e9f25396013606e2ffd9873a05",
+      "label": "Uplifting Duckweed",
+      "details": "Uplifting Duckweed -\nDuckweed X4,\nWater X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/172_lotad_h2.png",
+      "completed": true
+    },
+    {
+      "id": "02058832f4711e9706c87d4af13e",
+      "slug": "02058832f4711e9706c87d4af13e",
+      "label": null,
+      "details": "(found via Dragonite Doll) -\n(found Via Dragonite Doll)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "03163edf4630429ac71d61e0800c",
+      "slug": "03163edf4630429ac71d61e0800c",
+      "label": null,
+      "details": "Professor's Apprentice Program -\nJumbled Cords X1,\nLaptop X1,\nTable X1,\nWhiteboard X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/246_metang_h1.png",
+      "completed": true
+    },
+    {
+      "id": "06000259516562853c5bf32da722",
+      "slug": "06000259516562853c5bf32da722",
+      "label": "Light-Up Stage",
+      "details": "Light-Up Stage -\nSmall Stage X1,\nSpotlight X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/104_electabuzz_h2.png",
+      "completed": true
+    },
+    {
+      "id": "06dacdaf7b5dd8468e7766384b98",
+      "slug": "06dacdaf7b5dd8468e7766384b98",
+      "label": "Full Recovery",
+      "details": "Full Recovery -\nBed X1,\nFirst Aid Kit X1,\nPlain Chest X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/079_peakychu_h1.png",
+      "completed": true
+    },
+    {
+      "id": "08aba51b9b617cca0b1132454836",
+      "slug": "08aba51b9b617cca0b1132454836",
+      "label": "Shaded Beach",
+      "details": "Shaded Beach -\nBeach Chair X1,\nLarge Palm Tree X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/098_exeggcute_h2.png",
+      "completed": true
+    },
+    {
+      "id": "09a3f7ec0ce00553e8698260adde",
+      "slug": "09a3f7ec0ce00553e8698260adde",
+      "label": "Hydrated Yellow Tall Grass",
+      "details": "Hydrated Yellow Tall Grass -\nWater X2,\nYellow Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/114_azurill_h1.png",
+      "completed": true
+    },
+    {
+      "id": "0a93bd365704395c368bf7f5ba53",
+      "slug": "0a93bd365704395c368bf7f5ba53",
+      "label": null,
+      "details": "Toil in the Soil -\nVegetable Field X4,\nWheelbarrow X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/171_tyranitar_h1.png",
+      "completed": false
+    },
+    {
+      "id": "0c323186ba9a575a759aee6dd698",
+      "slug": "0c323186ba9a575a759aee6dd698",
+      "label": "Oversized Dumping Ground",
+      "details": "Oversized Dumping Ground -\nIron Beam Or Column X3,\nMicrowave Oven X1,\nOversized Dumping Ground,\nTires X1,\nWaste Bin X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/268_tinkatink_h2.png",
+      "completed": false
+    },
+    {
+      "id": "0cdfa812444f0fc00efa16ca3695",
+      "slug": "0cdfa812444f0fc00efa16ca3695",
+      "label": null,
+      "details": "Malicious Knight's Shrine -\nFirepit X2,\nMalicious Armor X1,\nPedestal / Exhibition Stand X1,\nStepping Stones X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/202_ceruledge_h1.png",
+      "completed": false
+    },
+    {
+      "id": "0df52eb4c8c884fd597661c440e4",
+      "slug": "0df52eb4c8c884fd597661c440e4",
+      "label": "Yellow Tall Grass",
+      "details": "Yellow Tall Grass -\nYellow Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/109_spinarak_h1.png",
+      "completed": true
+    },
+    {
+      "id": "0fe0c30c40f3f5a6a73f30ef0b97",
+      "slug": "0fe0c30c40f3f5a6a73f30ef0b97",
+      "label": "Beach Set",
+      "details": "Beach Set -\nBeach Chair X1,\nBeach Parasol X1,\nSide Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/145_tatsugiri-curly-form_h1.png",
+      "completed": true
+    },
+    {
+      "id": "0ff2383efbaf53989638b48f4a3a",
+      "slug": "0ff2383efbaf53989638b48f4a3a",
+      "label": "Windy Flower Bed",
+      "details": "Windy Flower Bed -\nSeashore Flowers X4,\nWindmill X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/123_wingull_h2.png",
+      "completed": true
+    },
+    {
+      "id": "0ff9f0ad9a3f60abe026e171b818",
+      "slug": "0ff9f0ad9a3f60abe026e171b818",
+      "label": null,
+      "details": "Game Corner Battle Zone -\nArcade Machine X2,\nSeat X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/220_porygon-z_h1.png",
+      "completed": true
+    },
+    {
+      "id": "125beaf9c1468ee65a529810a937",
+      "slug": "125beaf9c1468ee65a529810a937",
+      "label": "Spooky Study",
+      "details": "Spooky Study -\nBookcase X1,\nChic Sofa X1,\nPlain Table X1,\nSlender Candle X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/093_gastly_h1.png",
+      "completed": true
+    },
+    {
+      "id": "130a402c342ed63973fc951a38fa",
+      "slug": "130a402c342ed63973fc951a38fa",
+      "label": "Playing Pirate",
+      "details": "Playing Pirate -\nBarrel X1,\nCannon X2,\nShip's Wheel X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/096_voltorb_h2.png",
+      "completed": true
+    },
+    {
+      "id": "133cc59985dc3ca71acccff0accf",
+      "slug": "133cc59985dc3ca71acccff0accf",
+      "label": "Picturesque Photo Cutout Board",
+      "details": "Picturesque Photo Cutout Board -\nHigh-up Location,\nPhoto Cutout Board X1,\nSpotlight X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/235_plusle_h1.png",
+      "completed": false
+    },
+    {
+      "id": "155008a7bd91733cd094da2b5ed2",
+      "slug": "155008a7bd91733cd094da2b5ed2",
+      "label": "Surging Psychic Power",
+      "details": "Surging Psychic Power -\nCrystal Ball X1,\nSimple Cushion X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/213_abra_h1.png",
+      "completed": true
+    },
+    {
+      "id": "197408ccfa1eb27d8e8ea6512061",
+      "slug": "197408ccfa1eb27d8e8ea6512061",
+      "label": null,
+      "details": "Low Key Rock Stage -\nCool Bass Guitar X1,\nSmall Stage X1,\nSpeaker X2,\nStanding Mic X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/00_toxtricity-low-key-form_h1.png",
+      "completed": true
+    },
+    {
+      "id": "1aec4a1d75e342387ace58f7a1c1",
+      "slug": "1aec4a1d75e342387ace58f7a1c1",
+      "label": "Hot-spring Shower",
+      "details": "Hot-spring Shower -\nHot-spring Water X2,\nSeat X1,\nShower X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/086_psyduck_h1.png",
+      "completed": true
+    },
+    {
+      "id": "1be0c2e894e4cce82eb9429980e6",
+      "slug": "1be0c2e894e4cce82eb9429980e6",
+      "label": null,
+      "details": "Dark-chocolate Cookies -\n(palette Town Only),\nChocolate Cookies X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/285_umbreon_h1.png",
+      "completed": false
+    },
+    {
+      "id": "1d23947321c701ffadffcc0f9a3e",
+      "slug": "1d23947321c701ffadffcc0f9a3e",
+      "label": null,
+      "details": "Trash Disposal Site -\nGarbage Bags X1,\nUtility Pole X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/083_crobat_h2.png",
+      "completed": true
+    },
+    {
+      "id": "1dbaea31eb1252f311f8f7e6d187",
+      "slug": "1dbaea31eb1252f311f8f7e6d187",
+      "label": null,
+      "details": "Mossy Hot Spring -\nHot-spring Water X2,\nMoss X4,\nMossy Hot Spring",
+      "habitatImagePath": "app/assets/poketracker/habitats/176_torkoal_h1.png",
+      "completed": true
+    },
+    {
+      "id": "1edd9567fd39244e93803bd5f602",
+      "slug": "1edd9567fd39244e93803bd5f602",
+      "label": null,
+      "details": "Dandelion Lunchtime -\nDandy Flower X1,\nFlower Cushion X1,\nFlowery Table Setting X1,\nLunch Box X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/Event003_jumpluff_h1.png",
+      "completed": false
+    },
+    {
+      "id": "1f7164d2ced3efac10303e72d588",
+      "slug": "1f7164d2ced3efac10303e72d588",
+      "label": null,
+      "details": "Top Pop -\nPop Art Bed X1,\nPop Art Sofa X1,\nPop Art Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/226_typhlosion_h2.png",
+      "completed": true
+    },
+    {
+      "id": "22fd4975324c6fbfeeda28943b2d",
+      "slug": "22fd4975324c6fbfeeda28943b2d",
+      "label": "Cozy Log Handicrafts",
+      "details": "Cozy Log Handicrafts -\nLog Bed X1,\nLog Chair X1,\nLog Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/071_axew_h2.png",
+      "completed": true
+    },
+    {
+      "id": "2396f43cf9e4b37d080e25aa5b29",
+      "slug": "2396f43cf9e4b37d080e25aa5b29",
+      "label": "Study Area",
+      "details": "Study Area -\nBookcase X1,\nPencil Holder X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/231_ralts_h1.png",
+      "completed": true
+    },
+    {
+      "id": "23f5222ba2df599733c690b3af32",
+      "slug": "23f5222ba2df599733c690b3af32",
+      "label": "Illuminated Bench",
+      "details": "Illuminated Bench -\nSeat (wide) X1,\nStreetlight X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/019_venonat_h2.png",
+      "completed": true
+    },
+    {
+      "id": "2564da605f87fd8df128850142bf",
+      "slug": "2564da605f87fd8df128850142bf",
+      "label": "Spotless Washing Station",
+      "details": "Spotless Washing Station -\nSink X1,\nTowel Rack X1,\nWall Mirror X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/216_mime-jr_h1.png",
+      "completed": true
+    },
+    {
+      "id": "261873e43f61ecfc3da56936117f",
+      "slug": "261873e43f61ecfc3da56936117f",
+      "label": null,
+      "details": "Campsite -\nCampfire,\nStraw Stool,\nStraw Table",
+      "habitatImagePath": "app/assets/poketracker/habitats/005_charmeleon_h1.png",
+      "completed": true
+    },
+    {
+      "id": "265ef3c56d7d56f15561863161ac",
+      "slug": "265ef3c56d7d56f15561863161ac",
+      "label": null,
+      "details": "Nine Flames -\nFirepit X9",
+      "habitatImagePath": "app/assets/poketracker/habitats/208_ninetales_h2.png",
+      "completed": false
+    },
+    {
+      "id": "26e832d3e4e1320ba8b03233762b",
+      "slug": "26e832d3e4e1320ba8b03233762b",
+      "label": "Yellow Carpet",
+      "details": "Yellow Carpet -\nDandy Flowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/Event001_hopip_h1.png",
+      "completed": false
+    },
+    {
+      "id": "2913e7baf074d500d591070cbb80",
+      "slug": "2913e7baf074d500d591070cbb80",
+      "label": "Public Reading Material",
+      "details": "Public Reading Material -\nMagazine Rack X1,\nNewspaper X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/216_mime-jr_h2.png",
+      "completed": true
+    },
+    {
+      "id": "2abf3e67462ea225adead47306a0",
+      "slug": "2abf3e67462ea225adead47306a0",
+      "label": "Tree-shaded Graceful Flower Bed",
+      "details": "Tree-shaded Graceful Flower Bed -\nMountain Flowers X4,\nPointy Tree X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/167_murkrow_h2.png",
+      "completed": true
+    },
+    {
+      "id": "2af1b69939b4c220242579ab7811",
+      "slug": "2af1b69939b4c220242579ab7811",
+      "label": "Surprise in Store",
+      "details": "Surprise in Store -\nBalloons X2,\nBoo-in-the-box X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/094_haunter_h1.png",
+      "completed": true
+    },
+    {
+      "id": "2c4df4c241be3bbba1dd22a79d4b",
+      "slug": "2c4df4c241be3bbba1dd22a79d4b",
+      "label": null,
+      "details": "Elegant Daytime Treats -\n(palette Town Only),\nAfternoon Tea Set X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/284_espeon_h1.png",
+      "completed": false
+    },
+    {
+      "id": "2e5e81a3d3ab320b8f9f85f10084",
+      "slug": "2e5e81a3d3ab320b8f9f85f10084",
+      "label": null,
+      "details": "Tableside Deilvery Cart -\nChic Chair X2,\nChic Table X1,\nPlated Food X1,\nPush Cart X1,\nSmall Vase X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/130_empoleon_h1.png",
+      "completed": true
+    },
+    {
+      "id": "2ee6c65de4164aa660fcabb039e7",
+      "slug": "2ee6c65de4164aa660fcabb039e7",
+      "label": "Hydrated Tall Grass",
+      "details": "Hydrated Tall Grass -\nTall Grass X4,\nWater X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/007_squirtle_h2.png",
+      "completed": true
+    },
+    {
+      "id": "2f1f0d4ae12d3fe0913ebb741a50",
+      "slug": "2f1f0d4ae12d3fe0913ebb741a50",
+      "label": null,
+      "details": "Modern Living -\nIndustrial Bed X1,\nIndustrial Chair X1,\nIndustrial Desk X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/187_decidueye_h2.png",
+      "completed": true
+    },
+    {
+      "id": "2f212e6bd90e70b1096a003e7cec",
+      "slug": "2f212e6bd90e70b1096a003e7cec",
+      "label": null,
+      "details": "Urgent Care -\nFirst Aid Kit X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/035_hitmonlee_h1.png",
+      "completed": true
+    },
+    {
+      "id": "308a15a2ede02898c4485519699c",
+      "slug": "308a15a2ede02898c4485519699c",
+      "label": "Recital Stage",
+      "details": "Recital Stage -\nSmall Stage X1,\nSpeaker X2,\nStanding Mic X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/152_jigglypuff_h2.png",
+      "completed": true
+    },
+    {
+      "id": "3178ef67cb64fbfa8b69d8a2bec9",
+      "slug": "3178ef67cb64fbfa8b69d8a2bec9",
+      "label": null,
+      "details": "Good Old-fashioned Antiques -\nAntique Bed X1,\nAntique Chair X1,\nAntique Closet X1,\nAntique Dresser X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/108_snorlax_h2.png",
+      "completed": true
+    },
+    {
+      "id": "33a2615eda4e5b45171e5bc083c1",
+      "slug": "33a2615eda4e5b45171e5bc083c1",
+      "label": null,
+      "details": "Birdsong Garden -\nStylish Hedge X1,\nWooden Birdhouse X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/241_altaria_h1.png",
+      "completed": true
+    },
+    {
+      "id": "3523bd6cc863bcea721c127d882f",
+      "slug": "3523bd6cc863bcea721c127d882f",
+      "label": null,
+      "details": "Alarm Clock Sleep Zone -\nAlarm Clock X1,\nBed X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/100_happiny_h1.png",
+      "completed": true
+    },
+    {
+      "id": "38638cd958b714f641085c004ed6",
+      "slug": "38638cd958b714f641085c004ed6",
+      "label": "Hydrated Red Tall Grass",
+      "details": "Hydrated Red Tall Grass -\nRed Tall Grass X4,\nWater X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/172_lotad_h1.png",
+      "completed": true
+    },
+    {
+      "id": "386ab38f8c8bc88a6e10d86e6b50",
+      "slug": "386ab38f8c8bc88a6e10d86e6b50",
+      "label": null,
+      "details": "Garden Terrace -\n1x Garden Chair,\n1x Garden Light,\n1x Garden Table,\n4x Wildflowers",
+      "habitatImagePath": "app/assets/poketracker/habitats/003_venusaur_h2.png",
+      "completed": true
+    },
+    {
+      "id": "3ab17b12529ce22390a5fc6c74e9",
+      "slug": "3ab17b12529ce22390a5fc6c74e9",
+      "label": "Best Bread Bakery",
+      "details": "Best Bread Bakery -\nBread Oven X1,\nCounter X2,\nPlated Food X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/198_fidough_h2.png",
+      "completed": false
+    },
+    {
+      "id": "3c8573580314628b1b73728acd32",
+      "slug": "3c8573580314628b1b73728acd32",
+      "label": "Road Sign",
+      "details": "Road Sign -\nArrow Sign X1,\nWooden Path X3",
+      "habitatImagePath": "app/assets/poketracker/habitats/059_shellos_h1.png",
+      "completed": true
+    },
+    {
+      "id": "3cca7de56dd83b85948c19d683c7",
+      "slug": "3cca7de56dd83b85948c19d683c7",
+      "label": "Flower Garden",
+      "details": "Flower Garden -\nHedge X4,\nWildflowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/017_paras_h2.png",
+      "completed": true
+    },
+    {
+      "id": "3d55137b3678b73ebf06bf74cf45",
+      "slug": "3d55137b3678b73ebf06bf74cf45",
+      "label": "Tree-shaded Flower Bed",
+      "details": "Tree-shaded Flower Bed -\nBerry Tree X1,\nWildflowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/074_goomy_h1.png",
+      "completed": true
+    },
+    {
+      "id": "3d89bbeb4ea0f371e324559a1b28",
+      "slug": "3d89bbeb4ea0f371e324559a1b28",
+      "label": "Tree-shaded Red Tall Grass",
+      "details": "Tree-shaded Red Tall Grass -\nLarge Tree X1,\nRed Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/154_diglett_h1.png",
+      "completed": true
+    },
+    {
+      "id": "3dae0086a953ab24d3db37da2f0b",
+      "slug": "3dae0086a953ab24d3db37da2f0b",
+      "label": "Piping-hot Lava",
+      "details": "Piping-hot Lava -\nLava X2,\nMolten Rock X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/184_volcarona_h2.png",
+      "completed": true
+    },
+    {
+      "id": "3ed329c529afa7b7255ad924e275",
+      "slug": "3ed329c529afa7b7255ad924e275",
+      "label": null,
+      "details": "Tropical Seaside -\nHedge X4,\nLarge Palm Tree X1,\nOcean Water X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/106_lapras_h1.png",
+      "completed": true
+    },
+    {
+      "id": "3f854b672585a4dec4d6ad440ee2",
+      "slug": "3f854b672585a4dec4d6ad440ee2",
+      "label": null,
+      "details": "Tiny Atelier -\nCanvas X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/119_smeargle_h1.png",
+      "completed": true
+    },
+    {
+      "id": "4069ec56491a6e57a6d75cd6da01",
+      "slug": "4069ec56491a6e57a6d75cd6da01",
+      "label": null,
+      "details": "(found via Eevee Doll) -\n(found Via Eevee Doll)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "4087ad88b288751369b94fcfcd90",
+      "slug": "4087ad88b288751369b94fcfcd90",
+      "label": "Tree-shaded Snoozing Snorlax",
+      "details": "Tree-shaded Snoozing Snorlax -\nLarge Tree X1,\nNaptime Bed X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/107_munchlax_h2.png",
+      "completed": true
+    },
+    {
+      "id": "40d734ed9c1147a463063c7629bf",
+      "slug": "40d734ed9c1147a463063c7629bf",
+      "label": "All Packed Up",
+      "details": "All Packed Up -\nCardboard Boxes X2,\nCart X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/090_farfetch-d_h1.png",
+      "completed": true
+    },
+    {
+      "id": "40ea5ebc77f6fea6a0cd4b1692ce",
+      "slug": "40ea5ebc77f6fea6a0cd4b1692ce",
+      "label": "Flowery Table",
+      "details": "Flowery Table -\nSeat X1,\nSmall Vase X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/022_weepinbell_h1.png",
+      "completed": true
+    },
+    {
+      "id": "4313d627d177a017cf43724297f2",
+      "slug": "4313d627d177a017cf43724297f2",
+      "label": "Pink Tall Grass",
+      "details": "Pink Tall Grass -\nPink Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/237_trapinch_h1.png",
+      "completed": true
+    },
+    {
+      "id": "44bcc1ce9c9aa01b47899683f888",
+      "slug": "44bcc1ce9c9aa01b47899683f888",
+      "label": "Grave Offering",
+      "details": "Grave Offering -\nGravestone X1,\nPlated Food X1,\nSlender Candle X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/068_litwick_h1.png",
+      "completed": true
+    },
+    {
+      "id": "46b81063cccec32fa760bc2b1451",
+      "slug": "46b81063cccec32fa760bc2b1451",
+      "label": "Music and Magazines",
+      "details": "Music and Magazines -\nCd Player X1,\nCd Rack X1,\nMagazine Rack X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/177_kricketot_h2.png",
+      "completed": true
+    },
+    {
+      "id": "48c13a3363c8345fd719fae915cf",
+      "slug": "48c13a3363c8345fd719fae915cf",
+      "label": null,
+      "details": "Sunny Day Site -\nCastform Weather Charm (sun) X2,\nPlated Food X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/055_cacnea_h1.png",
+      "completed": true
+    },
+    {
+      "id": "48e7a46318aeb7af9b5a747c56a0",
+      "slug": "48e7a46318aeb7af9b5a747c56a0",
+      "label": null,
+      "details": "Treasure-hunting Set -\nAdventure Kit X1,\nMap And Compass X1,\nTreasure X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/Event004_sableye_h1.png",
+      "completed": false
+    },
+    {
+      "id": "4d8a2e943fc4a1375d3a4e42896b",
+      "slug": "4d8a2e943fc4a1375d3a4e42896b",
+      "label": null,
+      "details": "Mini Kitchen -\nCooking Stove X1,\nFrying Pan X1,\nKitchen Table X1,\nModern Sink X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/164_magmortar_h1.png",
+      "completed": true
+    },
+    {
+      "id": "509d74998d5cd896ca530ecf760d",
+      "slug": "509d74998d5cd896ca530ecf760d",
+      "label": "Fortune-teller's Table",
+      "details": "Fortune-teller's Table -\nCrystal Ball X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/213_abra_h2.png",
+      "completed": true
+    },
+    {
+      "id": "52a0e16704b31f244ce8a57b30bf",
+      "slug": "52a0e16704b31f244ce8a57b30bf",
+      "label": null,
+      "details": "Hot-spring Fishing Spot -\nFishing Rod X1,\nHot-spring Water X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/173_lombre_h2.png",
+      "completed": true
+    },
+    {
+      "id": "540f90025f2cef8571dbdbcb8b95",
+      "slug": "540f90025f2cef8571dbdbcb8b95",
+      "label": "Grassy Training Field",
+      "details": "Grassy Training Field -\nRed Tall Grass X4,\nSandbags X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/157_machoke_h1.png",
+      "completed": true
+    },
+    {
+      "id": "54b980dfe34b8adc655c5f9de57d",
+      "slug": "54b980dfe34b8adc655c5f9de57d",
+      "label": null,
+      "details": "Wing Fossil Display -\nPedestal / Exhibition Stand X2,\nWing Fossil (head, Body, Right Wing, Left Wing, Tail)",
+      "habitatImagePath": "app/assets/poketracker/habitats/271_aerodactyl_h1.png",
+      "completed": true
+    },
+    {
+      "id": "55205a66ec0c65489033f347dcc8",
+      "slug": "55205a66ec0c65489033f347dcc8",
+      "label": "Hydrated Fluffy Flower Bed",
+      "details": "Hydrated Fluffy Flower Bed -\nSkyland Flowers X4,\nWater X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/210_poliwhirl_h1.png",
+      "completed": true
+    },
+    {
+      "id": "5620b72d98c4043a0772ceea843e",
+      "slug": "5620b72d98c4043a0772ceea843e",
+      "label": "Vending Machine Break Area",
+      "details": "Vending Machine Break Area -\nSeat (wide) X1,\nVending Machine X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/138_grubbin_h2.png",
+      "completed": true
+    },
+    {
+      "id": "57f8e45270c7eec9c66f57ae0a67",
+      "slug": "57f8e45270c7eec9c66f57ae0a67",
+      "label": "Private Makeup Stand",
+      "details": "Private Makeup Stand -\nCloset X1,\nDresser X1,\nPartition X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/136_minccino_h2.png",
+      "completed": true
+    },
+    {
+      "id": "580595f9404cd486aa8ec6f9039a",
+      "slug": "580595f9404cd486aa8ec6f9039a",
+      "label": "Resort Meal Prep",
+      "details": "Resort Meal Prep -\nCampfire X1,\nLarge Palm Tree X1,\nPlated Food X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/088_growlithe_h2.png",
+      "completed": true
+    },
+    {
+      "id": "581e97bb370be02e2d915852778f",
+      "slug": "581e97bb370be02e2d915852778f",
+      "label": null,
+      "details": "Auspicious Knight's Shrine -\nAuspicious Armor X1,\nFirepit X2,\nPedestal / Exhibition Stand X1,\nStepping Stones X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/201_armarouge_h1.png",
+      "completed": false
+    },
+    {
+      "id": "5897398950933690b8f11af6288a",
+      "slug": "5897398950933690b8f11af6288a",
+      "label": "Prank Button",
+      "details": "Prank Button -\nBoo-in-the-box X1,\nFloor Switch X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/252_frogadier_h2.png",
+      "completed": false
+    },
+    {
+      "id": "5a42593a0cdaa0776b1a366ac129",
+      "slug": "5a42593a0cdaa0776b1a366ac129",
+      "label": "Hydrated Pink Tall Grass",
+      "details": "Hydrated Pink Tall Grass -\nPink Tall Grass X4,\nWater X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/251_froakie_h1.png",
+      "completed": true
+    },
+    {
+      "id": "5aa7d202a86b68a1612054a001e0",
+      "slug": "5aa7d202a86b68a1612054a001e0",
+      "label": null,
+      "details": "Exercise Resting Spot -\nPunching Bag X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/036_hitmonchan_h1.png",
+      "completed": true
+    },
+    {
+      "id": "5b9a622e4d870ea4e1c764a6293c",
+      "slug": "5b9a622e4d870ea4e1c764a6293c",
+      "label": null,
+      "details": "Absolute Luxury -\nAbsolute Luxury,\nLuxury Bed X1,\nLuxury Lamp,\nLuxury Sofa X1,\nLuxury Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/206_gholdengo_h1.png",
+      "completed": false
+    },
+    {
+      "id": "5bd125fcf5019fc0f8ebaa7c3849",
+      "slug": "5bd125fcf5019fc0f8ebaa7c3849",
+      "label": "Tree-shaded Fluffy Flower Bed",
+      "details": "Tree-shaded Fluffy Flower Bed -\nLarge Tree X1,\nSkyland Flowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/229_girafarig_h1.png",
+      "completed": true
+    },
+    {
+      "id": "5e5bd445d814499c7e4d7148e10d",
+      "slug": "5e5bd445d814499c7e4d7148e10d",
+      "label": "Bed With a Plush",
+      "details": "Bed With a Plush -\nBed X1,\nDoll X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/025_slowbro_h2.png",
+      "completed": true
+    },
+    {
+      "id": "5e8b60411ee8b26355fb94815fda",
+      "slug": "5e8b60411ee8b26355fb94815fda",
+      "label": "Interrogation Desk",
+      "details": "Interrogation Desk -\nArcanine Doll X1,\nDesk Light X1,\nFolding Chair X2,\nIndustrial Desk X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/263_sprigatito_h2.png",
+      "completed": true
+    },
+    {
+      "id": "5ffa16e77316a60f12c4e998c161",
+      "slug": "5ffa16e77316a60f12c4e998c161",
+      "label": null,
+      "details": "Field-Trip Friends -\nFlower Backpack X1,\nHoppip Water Bottle X1,\nLunchbox X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/Event001_hopip_h2.png",
+      "completed": false
+    },
+    {
+      "id": "606a864506f7f9967537ac5b9174",
+      "slug": "606a864506f7f9967537ac5b9174",
+      "label": "Tree-shaded Pink Tall Grass",
+      "details": "Tree-shaded Pink Tall Grass -\nLarge Tree,\nPink Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/170_pupitar_h1.png",
+      "completed": true
+    },
+    {
+      "id": "619cc83dfd2cc662a166eeb67b88",
+      "slug": "619cc83dfd2cc662a166eeb67b88",
+      "label": null,
+      "details": "Squeaky Clean -\nBathtub X1,\nCleaning Supplies X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/209_poliwag_h1.png",
+      "completed": true
+    },
+    {
+      "id": "61f436afb48261d5b1baa8808527",
+      "slug": "61f436afb48261d5b1baa8808527",
+      "label": null,
+      "details": "(use Clear Bell) -\n(use Clear Bell)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "62e081c52d6f87f857a84b93eefe",
+      "slug": "62e081c52d6f87f857a84b93eefe",
+      "label": "Elevated Pink Tall Grass",
+      "details": "Elevated Pink Tall Grass -\nHigh-up Location X1,\nPink Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/258_corvisquire_h1.png",
+      "completed": true
+    },
+    {
+      "id": "65d4ce4f467da62b79964f4d7969",
+      "slug": "65d4ce4f467da62b79964f4d7969",
+      "label": null,
+      "details": "Nothin' But Poke Balls -\nPoke Ball Bed X1,\nPoke Ball Light X1,\nPoke Ball Sofa X1,\nPoke Ball Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/040_tangela_h1.png",
+      "completed": true
+    },
+    {
+      "id": "6757151b0254eeb7e0f75a84a367",
+      "slug": "6757151b0254eeb7e0f75a84a367",
+      "label": null,
+      "details": "Pikachu Space -\nPikachu Doll X1,\nPikachu Sofa X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/141_mimikyu_h1.png",
+      "completed": true
+    },
+    {
+      "id": "6912de85a3dd74b269508dcdcdf6",
+      "slug": "6912de85a3dd74b269508dcdcdf6",
+      "label": "Office Storeroom",
+      "details": "Office Storeroom -\nCardboard Boxes X1,\nOffice Shelf X1,\nStep Stool X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/227_misdreavus_h2.png",
+      "completed": true
+    },
+    {
+      "id": "6a4d03623b94910de594cfcd62f6",
+      "slug": "6a4d03623b94910de594cfcd62f6",
+      "label": null,
+      "details": "Berry-fest Campsite -\nBerry Basket X1,\nBunfire X1,\nCastform Weather Charm (sun) X2,\nHigh-up Location",
+      "habitatImagePath": "app/assets/poketracker/habitats/006_charizard_h2.png",
+      "completed": true
+    },
+    {
+      "id": "6acec9cbd1bf625e3c99a029cc52",
+      "slug": "6acec9cbd1bf625e3c99a029cc52",
+      "label": "Flower Garden Stump Stage",
+      "details": "Flower Garden Stump Stage -\nMountain Flowers X4,\nMushroom Lamp X2,\nTree Stump X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/151_igglybuff_h1.png",
+      "completed": true
+    },
+    {
+      "id": "6aeb18aa913307f8ac6a9d2c0f17",
+      "slug": "6aeb18aa913307f8ac6a9d2c0f17",
+      "label": "Cafe Space",
+      "details": "Cafe Space -\nCounter X2,\nMenu Board X1,\nMug X1,\nPotted Plant X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/143_pawmo_h2.png",
+      "completed": true
+    },
+    {
+      "id": "6b9e016c588da5803828a8e59475",
+      "slug": "6b9e016c588da5803828a8e59475",
+      "label": null,
+      "details": "(use Tidal Bell) -\n(use Tidal Bell)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "6e42928f0444afc0735ee4b7161e",
+      "slug": "6e42928f0444afc0735ee4b7161e",
+      "label": "Breezy Flower Bed",
+      "details": "Breezy Flower Bed -\nSeashore Flowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/134_zorua_h1.png",
+      "completed": true
+    },
+    {
+      "id": "6e81412a9e231da70b1b45f38610",
+      "slug": "6e81412a9e231da70b1b45f38610",
+      "label": null,
+      "details": "(found via Pikachu Doll) -\n(found Via Pikachu Doll)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "708479902a8c084185375b15e8d1",
+      "slug": "708479902a8c084185375b15e8d1",
+      "label": null,
+      "details": "Riding Warm Updrafts -\nCampfire X3",
+      "habitatImagePath": "app/assets/poketracker/habitats/061_drifloon_h1.png",
+      "completed": true
+    },
+    {
+      "id": "721bec4de754a1b566a069937c6d",
+      "slug": "721bec4de754a1b566a069937c6d",
+      "label": null,
+      "details": "Cycling Rest Stop -\nBike X1,\nVending Machine X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/245_beldum_h1.png",
+      "completed": true
+    },
+    {
+      "id": "72328ed7fc496270109890253199",
+      "slug": "72328ed7fc496270109890253199",
+      "label": null,
+      "details": "Training Waterfall -\nSeat X1,\nWater X2,\nWaterfall X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/034_tyrogue_h1.png",
+      "completed": true
+    },
+    {
+      "id": "761c40299b809e863fe6dbc1abbc",
+      "slug": "761c40299b809e863fe6dbc1abbc",
+      "label": "Refreshing Locker Room",
+      "details": "Refreshing Locker Room -\nOffice Locker X2,\nPotted Plant X1,\nPunching Game X1,\nSeat (wide) X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/189_raboot_h2.png",
+      "completed": true
+    },
+    {
+      "id": "77365a459fa88c0da9270af41e82",
+      "slug": "77365a459fa88c0da9270af41e82",
+      "label": "Elevated Red Tall Grass",
+      "details": "Elevated Red Tall Grass -\nHigh-up Location,\nRed Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/167_murkrow_h1.png",
+      "completed": true
+    },
+    {
+      "id": "77d691b0865e9ab6df2f5e4ac595",
+      "slug": "77d691b0865e9ab6df2f5e4ac595",
+      "label": null,
+      "details": "Heavy Iron -\nHeavy Iron,\nIron Bed X1,\nIron Chair X1,\nIron Table X1,\nLantern X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/195_coalossal_h2.png",
+      "completed": true
+    },
+    {
+      "id": "79a1b600fa061d95708d5f0e942f",
+      "slug": "79a1b600fa061d95708d5f0e942f",
+      "label": null,
+      "details": "Gym First Aid -\nFirst Aid Kit X1,\nPunching Bag X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/037_hitmontop_h1.png",
+      "completed": true
+    },
+    {
+      "id": "7a0ae95fb8353268ab077b501c1a",
+      "slug": "7a0ae95fb8353268ab077b501c1a",
+      "label": "Creepy Grave Offering",
+      "details": "Creepy Grave Offering -\nEerie Candle X2,\nGravestone X1,\nPlated Food X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/068_litwick_h2.png",
+      "completed": true
+    },
+    {
+      "id": "7a9dc8c028918c5de6c5fd114dc2",
+      "slug": "7a9dc8c028918c5de6c5fd114dc2",
+      "label": "Mossy Boulder",
+      "details": "Mossy Boulder -\nMoss X4,\nMossy Boulder X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/160_graveler_h1.png",
+      "completed": true
+    },
+    {
+      "id": "7af389a32f44659c500630c9f0b0",
+      "slug": "7af389a32f44659c500630c9f0b0",
+      "label": null,
+      "details": "Gourmet's Altar -\nOffering Dish X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/108_mosslax_h1.png",
+      "completed": true
+    },
+    {
+      "id": "7d028bf918cf0edae674f138a683",
+      "slug": "7d028bf918cf0edae674f138a683",
+      "label": "Mini Museum",
+      "details": "Mini Museum -\nLost Relic (large) X1,\nPedestal / Exhibition Stand X1,\nPost X3",
+      "habitatImagePath": "app/assets/poketracker/habitats/089_arcanine_h1.png",
+      "completed": true
+    },
+    {
+      "id": "7da29d82b40236e2881a93078ab6",
+      "slug": "7da29d82b40236e2881a93078ab6",
+      "label": null,
+      "details": "Shield Fossil Display -\nPedestal / Exhibition Stand X2,\nShield Fossil (head, Body, Tail)",
+      "habitatImagePath": "app/assets/poketracker/habitats/275_bastiodon_h1.png",
+      "completed": true
+    },
+    {
+      "id": "7f78451c8296dba421cc1ac68af8",
+      "slug": "7f78451c8296dba421cc1ac68af8",
+      "label": "Large Luggage Carrier",
+      "details": "Large Luggage Carrier -\nCart X1,\nLarge Luggage Carrier,\nWooden Crate X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/066_gurdurr_h2.png",
+      "completed": true
+    },
+    {
+      "id": "81e28db0beb3bb22b6c3337c9497",
+      "slug": "81e28db0beb3bb22b6c3337c9497",
+      "label": "Boulder-shaded tall grass",
+      "details": "Boulder-shaded tall grass -\nLarge Boulder X1,\nTall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/065_timburr_h1.png",
+      "completed": true
+    },
+    {
+      "id": "83dd17a217b19b2175c7ed17aff0",
+      "slug": "83dd17a217b19b2175c7ed17aff0",
+      "label": null,
+      "details": "Good Old-Fashioned Antiques -\nAntique Bed X1,\nAntique Chaire X1,\nAntique Closet X1,\nAntique Dresser X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/039_weezing_h1.png",
+      "completed": true
+    },
+    {
+      "id": "85abffba9132d6e98c7c32b7e705",
+      "slug": "85abffba9132d6e98c7c32b7e705",
+      "label": "Tall Grass",
+      "details": "Tall Grass -\nTall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/001_bulbasaur_h1.png",
+      "completed": true
+    },
+    {
+      "id": "86d96486a0d8cd30803134504f88",
+      "slug": "86d96486a0d8cd30803134504f88",
+      "label": "Clink-clang Iron Construction",
+      "details": "Clink-clang Iron Construction -\nExcavation Tools X1,\nIron Beam Or Column X3,\nSandbags X1,\nWheelbarrow X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/031_steelix_h1.png",
+      "completed": true
+    },
+    {
+      "id": "8718c43d70838644c2108ce13cc1",
+      "slug": "8718c43d70838644c2108ce13cc1",
+      "label": null,
+      "details": "Very-Berry Space -\nBerry Bed X1,\nBerry Chair X1,\nBerry Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/076_goodra_h1.png",
+      "completed": true
+    },
+    {
+      "id": "878c11055c01c9dd29001926b277",
+      "slug": "878c11055c01c9dd29001926b277",
+      "label": null,
+      "details": "Digging and Burning -\nExcavation Tools X1,\nSmelting Furnace X1,\nWheelbarrow X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/163_magmar_h1.png",
+      "completed": true
+    },
+    {
+      "id": "88c47ed4e08df8f7a427f376a135",
+      "slug": "88c47ed4e08df8f7a427f376a135",
+      "label": null,
+      "details": "Cuteness Overload -\nCute Bed,\nCute Dresser X1,\nCute Lamp X1,\nCute Sofa X1,\nCute Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/102_blissey_h1.png",
+      "completed": false
+    },
+    {
+      "id": "892d1d68c891980921e24760bc4a",
+      "slug": "892d1d68c891980921e24760bc4a",
+      "label": "Elevated Yellow Tall Grass",
+      "details": "Elevated Yellow Tall Grass -\nHigh-up Location,\nYellow Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/083_crobat_h1.png",
+      "completed": true
+    },
+    {
+      "id": "89664b65f1de2162aa02bb684d72",
+      "slug": "89664b65f1de2162aa02bb684d72",
+      "label": null,
+      "details": "Experiment Space -\nMicroscope X1,\nPapers X1,\nScience Experiment X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/215_alakazam_h2.png",
+      "completed": true
+    },
+    {
+      "id": "8ce3e9d63f48fccf5f2b74aa61f9",
+      "slug": "8ce3e9d63f48fccf5f2b74aa61f9",
+      "label": "Trash Site TV",
+      "details": "Trash Site TV -\nGarbage Bags X2,\nTelevision X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/243_dusclops_h1.png",
+      "completed": true
+    },
+    {
+      "id": "8d221165c48eb227d939886cbf65",
+      "slug": "8d221165c48eb227d939886cbf65",
+      "label": null,
+      "details": "Gamer's Paradise -\nGaming Bed X1,\nGaming Chair X1,\nGaming Fridge X1,\nGaming Pc X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/247_metagross_h1.png",
+      "completed": true
+    },
+    {
+      "id": "8db29178dbd9fa821a4d697262ee",
+      "slug": "8db29178dbd9fa821a4d697262ee",
+      "label": null,
+      "details": "Evil Organization HQ -\nLuxury Sofa X1,\nPotted Plant X2,\nTeam Rocket Wall Hanging X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/085_persian_h1.png",
+      "completed": true
+    },
+    {
+      "id": "8f59ec9afb1fd7ca66ee039604ba",
+      "slug": "8f59ec9afb1fd7ca66ee039604ba",
+      "label": "Working the Register",
+      "details": "Working the Register -\nCash Register X1,\nTable X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/084_meowth_h2.png",
+      "completed": true
+    },
+    {
+      "id": "904041a808c39415129e5b15e5d3",
+      "slug": "904041a808c39415129e5b15e5d3",
+      "label": null,
+      "details": "Plain Life -\nPlain Bed X1,\nPlain Lamp X1,\nPlain Sofa X1,\nPlain Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/113_ampharos_h1.png",
+      "completed": true
+    },
+    {
+      "id": "92b64c5ebe9fd46a0b65de760b4f",
+      "slug": "92b64c5ebe9fd46a0b65de760b4f",
+      "label": "Illuminated Tall Grass",
+      "details": "Illuminated Tall Grass -\nLighting X1,\nTall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/019_venonat_h1.png",
+      "completed": true
+    },
+    {
+      "id": "92fd7d49400521555ded9c59d39e",
+      "slug": "92fd7d49400521555ded9c59d39e",
+      "label": "Hydrated Flower Bed",
+      "details": "Hydrated Flower Bed -\nWater X2,\nWildflowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/051_volbeat_h1.png",
+      "completed": true
+    },
+    {
+      "id": "94e85c6185b5716ffeca56967182",
+      "slug": "94e85c6185b5716ffeca56967182",
+      "label": "Tantalizing Restaurant",
+      "details": "Tantalizing Restaurant -\nMenu Board X1,\nPlated Food X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/142_pawmi_h2.png",
+      "completed": true
+    },
+    {
+      "id": "954b2dde850353d396a5d850c6ae",
+      "slug": "954b2dde850353d396a5d850c6ae",
+      "label": null,
+      "details": "Tire Park -\nSlide X1,\nTire Toy X2,\nTires X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/254_dedenne_h1.png",
+      "completed": true
+    },
+    {
+      "id": "959abd78dd1b81190d6e98562939",
+      "slug": "959abd78dd1b81190d6e98562939",
+      "label": "Trash Can Central",
+      "details": "Trash Can Central -\nGarbage Bin X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/028_magneton_h1.png",
+      "completed": true
+    },
+    {
+      "id": "95baf5833ade25c4a7aaf7263654",
+      "slug": "95baf5833ade25c4a7aaf7263654",
+      "label": null,
+      "details": "(Found via Rocky Ridges Mission) -\n(found Via Rocky Ridges Mission)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "968acf4354d21657bdc85a26f444",
+      "slug": "968acf4354d21657bdc85a26f444",
+      "label": null,
+      "details": "Headbut Fossil Display -\nHeadbut Fossil (head, Body, Tail),\nPedestal / Exhibition Stand X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/273_rampardos_h1.png",
+      "completed": true
+    },
+    {
+      "id": "97443f3c08f8b5ad58722f5370d5",
+      "slug": "97443f3c08f8b5ad58722f5370d5",
+      "label": null,
+      "details": "Welcoming Resort -\nResort Hammock X1,\nResort Light X1,\nResort Sofa X1,\nResort Table X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/127_absol_h1.png",
+      "completed": true
+    },
+    {
+      "id": "97e41ed15a597f26facbe06bddfa",
+      "slug": "97e41ed15a597f26facbe06bddfa",
+      "label": "Irresistable Scent and Glow",
+      "details": "Irresistable Scent and Glow -\nMushroom Lamp X1,\nPitcher-plant Pot X1,\nPlated Food X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/022_weepinbell_h2.png",
+      "completed": false
+    },
+    {
+      "id": "97e495d252bfb977a328257f01f4",
+      "slug": "97e495d252bfb977a328257f01f4",
+      "label": "Chirping Recital",
+      "details": "Chirping Recital -\nPerch X1,\nStanding Mic X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/168_honchkrow_h2.png",
+      "completed": true
+    },
+    {
+      "id": "98074d13a92f3a74c9038764bd16",
+      "slug": "98074d13a92f3a74c9038764bd16",
+      "label": null,
+      "details": "Work Desk -\nLaptop X1,\nMug X1,\nOffice Chair X1,\nOffice Desk X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/219_porygon2_h1.png",
+      "completed": true
+    },
+    {
+      "id": "9807f922120329406cbc0be7f9b6",
+      "slug": "9807f922120329406cbc0be7f9b6",
+      "label": "Tree-Shaded Yellow Tall Grass",
+      "details": "Tree-Shaded Yellow Tall Grass -\nLarge Tree X1,\nYellow Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/081_zubat_h1.png",
+      "completed": true
+    },
+    {
+      "id": "98d0d7d58c9eee5c27457eb1cbcf",
+      "slug": "98d0d7d58c9eee5c27457eb1cbcf",
+      "label": null,
+      "details": "Professor's Treasure Trove -\nBed X1,\nLost Relic (large) X4,\nProfessor's Treasure Trove X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/041_tangrowth_h2.png",
+      "completed": true
+    },
+    {
+      "id": "9903b736551a17fcdc772e4f21fe",
+      "slug": "9903b736551a17fcdc772e4f21fe",
+      "label": null,
+      "details": "Jaw Fossil Display -\nJaw Fossil X1,\nPedestal / Exhibition Stand X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/276_tyrunt_h1.png",
+      "completed": true
+    },
+    {
+      "id": "9a65f333c3b533d2173c5a16a03a",
+      "slug": "9a65f333c3b533d2173c5a16a03a",
+      "label": null,
+      "details": "Home Theater -\nHome Theater,\nSpeaker X2,\nStand X1,\nTelevision X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/228_mismagius_h2.png",
+      "completed": true
+    },
+    {
+      "id": "9b267735bcf2e6e3461a2c1fcb6c",
+      "slug": "9b267735bcf2e6e3461a2c1fcb6c",
+      "label": null,
+      "details": "Armor Fossil Display -\nArmor Fossil X1,\nPedestal / Exhibition Stand X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/274_shieldon_h1.png",
+      "completed": true
+    },
+    {
+      "id": "9b9a3eb1b9db42800e89cd044c43",
+      "slug": "9b9a3eb1b9db42800e89cd044c43",
+      "label": "Container Snacking",
+      "details": "Container Snacking -\nBarrel X1,\nLantern X1,\nPlated Food X1,\nWooden Crate X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/154_diglett_h2.png",
+      "completed": true
+    },
+    {
+      "id": "9c743aac0cd8621c403aaa2cdaae",
+      "slug": "9c743aac0cd8621c403aaa2cdaae",
+      "label": "Marsh Fishing Spot",
+      "details": "Marsh Fishing Spot -\nFishing Rod X1,\nMuddy Water X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/091_grimer_h1.png",
+      "completed": true
+    },
+    {
+      "id": "9f713bfb7384c860528bfc0f368f",
+      "slug": "9f713bfb7384c860528bfc0f368f",
+      "label": null,
+      "details": "(must build Abandoned Power Plant) -\n(must Build Abandoned Power Plant)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "a2062233fdc4f7319585c1a83117",
+      "slug": "a2062233fdc4f7319585c1a83117",
+      "label": null,
+      "details": "(must build Altar of Flame) -\n(must Build Altar Of Flame)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "a5313e273e79cfc3caf96534b249",
+      "slug": "a5313e273e79cfc3caf96534b249",
+      "label": null,
+      "details": "Electrifying Potatoes -\n(palette Town Only),\nFried Potatoes X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/282_jolteon_h1.png",
+      "completed": false
+    },
+    {
+      "id": "a5fa39f6ba5dd4100222d2ec2137",
+      "slug": "a5fa39f6ba5dd4100222d2ec2137",
+      "label": "Simple Bathroom",
+      "details": "Simple Bathroom -\nBathtub X1,\nShower X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/221_dratini_h2.png",
+      "completed": true
+    },
+    {
+      "id": "a664dc2be58b12a6fa967e047edf",
+      "slug": "a664dc2be58b12a6fa967e047edf",
+      "label": null,
+      "details": "Magma Fishing Spot -\nFishing Rod X1,\nLava X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/089_arcanine_h2.png",
+      "completed": true
+    },
+    {
+      "id": "a9be54f42075075f96531fd140b3",
+      "slug": "a9be54f42075075f96531fd140b3",
+      "label": "Marshy Tall Grass",
+      "details": "Marshy Tall Grass -\nMuddy Water X2,\nYellow Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/117_paldean-wooper_h1.png",
+      "completed": true
+    },
+    {
+      "id": "aa1ba238014759cf9fbf7a4a8f83",
+      "slug": "aa1ba238014759cf9fbf7a4a8f83",
+      "label": "Pointy Tree-shaded Rocky Tall Grass",
+      "details": "Pointy Tree-shaded Rocky Tall Grass -\nLarge Boulder X1,\nPointy Tree X1,\nRed Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/186_dartrix_h1.png",
+      "completed": true
+    },
+    {
+      "id": "aa3b15694529c59aebef9eab9db1",
+      "slug": "aa3b15694529c59aebef9eab9db1",
+      "label": null,
+      "details": "Gently Lit Bed -\nBed X1,\nSlender Candle X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/049_noctowl_h2.png",
+      "completed": true
+    },
+    {
+      "id": "abbc197c7f983f8571758e50c6ae",
+      "slug": "abbc197c7f983f8571758e50c6ae",
+      "label": null,
+      "details": "Tantalizing Dining Set -\nPlated Food X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/053_gulpin_h1.png",
+      "completed": true
+    },
+    {
+      "id": "ad8045bf791ebf979fd0f4e62067",
+      "slug": "ad8045bf791ebf979fd0f4e62067",
+      "label": "Waterwheel Spot",
+      "details": "Waterwheel Spot -\nWater X2,\nWaterfall X1,\nWaterwheel X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/129_prinplup_h2.png",
+      "completed": true
+    },
+    {
+      "id": "af9eafc4ccacea6d536995dcf7b3",
+      "slug": "af9eafc4ccacea6d536995dcf7b3",
+      "label": "Box to the Rhythm",
+      "details": "Box to the Rhythm -\nCd Player X1,\nPunching Bag X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/157_machoke_h2.png",
+      "completed": true
+    },
+    {
+      "id": "afed8047f6536f35c49db08ce1ed",
+      "slug": "afed8047f6536f35c49db08ce1ed",
+      "label": "Tropical Vibes",
+      "details": "Tropical Vibes -\nLarge Palm Tree X1,\nSeashore Flowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/014_gloom_h1.png",
+      "completed": true
+    },
+    {
+      "id": "b2dd0649143fbd38796b52d3be40",
+      "slug": "b2dd0649143fbd38796b52d3be40",
+      "label": "Seaside Tall Grass",
+      "details": "Seaside Tall Grass -\nOcean Water X2,\nTall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/024_slowpoke_h1.png",
+      "completed": true
+    },
+    {
+      "id": "b4357708dac6b502b0c03532c46e",
+      "slug": "b4357708dac6b502b0c03532c46e",
+      "label": null,
+      "details": "Skull Fossil Display -\nPedestal / Exhibition Stand X1,\nSkull Fossil X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/272_cranidos_h1.png",
+      "completed": true
+    },
+    {
+      "id": "b56d0bdb0511ff90cb318a201353",
+      "slug": "b56d0bdb0511ff90cb318a201353",
+      "label": null,
+      "details": "Playland -\nSlide X1,\nToy X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/248_snivy_h1.png",
+      "completed": true
+    },
+    {
+      "id": "b75653f9710dfe41e53edabec193",
+      "slug": "b75653f9710dfe41e53edabec193",
+      "label": "Bench with Greenery",
+      "details": "Bench with Greenery -\nHedge X2,\nSeat (wide) X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/001_bulbasaur_h2.png",
+      "completed": true
+    },
+    {
+      "id": "b7a3e603ff7715271b80afadb74f",
+      "slug": "b7a3e603ff7715271b80afadb74f",
+      "label": "Furnace Spot",
+      "details": "Furnace Spot -\nFurnace X1,\nMetal Drum X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/121_combusken_h2.png",
+      "completed": true
+    },
+    {
+      "id": "b8beeca78528fd5bf5a1e35dc8dc",
+      "slug": "b8beeca78528fd5bf5a1e35dc8dc",
+      "label": "Hydrated Graceful Flower Bed",
+      "details": "Hydrated Graceful Flower Bed -\nMoutain Flowers X4,\nWater X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/146_ekans_h1.png",
+      "completed": true
+    },
+    {
+      "id": "bba72b83c162dd450ab537b73001",
+      "slug": "bba72b83c162dd450ab537b73001",
+      "label": "Dojo Training",
+      "details": "Dojo Training -\nHanging Scroll X2,\nStrength Rock X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/211_poliwrath_h2.png",
+      "completed": true
+    },
+    {
+      "id": "bbd4f923c0dac2f0dea45a798877",
+      "slug": "bbd4f923c0dac2f0dea45a798877",
+      "label": "Picnic Set",
+      "details": "Picnic Set -\nPicnic Basket X1,\nSeat X2,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/078_pichu_h1.png",
+      "completed": true
+    },
+    {
+      "id": "bbe825b14a8a849621e11c26b7db",
+      "slug": "bbe825b14a8a849621e11c26b7db",
+      "label": "Red Tall Grass",
+      "details": "Red Tall Grass -\nRed Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/177_kricketot_h1.png",
+      "completed": true
+    },
+    {
+      "id": "bce8448ed8b8d630a9df4e740835",
+      "slug": "bce8448ed8b8d630a9df4e740835",
+      "label": null,
+      "details": "(found via Mysterious Slate Puzzle) -\n(found Via Mysterious Slate Puzzle)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "be4a85a7d92c1c136550193dc1b6",
+      "slug": "be4a85a7d92c1c136550193dc1b6",
+      "label": null,
+      "details": "Pretty Flower Bed -\n(palette Town Only),\nWildflowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/280_eevee_h1.png",
+      "completed": true
+    },
+    {
+      "id": "bf90561bb0902990dc06e8f074bf",
+      "slug": "bf90561bb0902990dc06e8f074bf",
+      "label": null,
+      "details": "Boundless Blue Beverage -\n(palette Town Only),\nSeat X1,\nSoda Float X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/281_vaporeon_h1.png",
+      "completed": false
+    },
+    {
+      "id": "c06afc665e51668ae05fa8c81f62",
+      "slug": "c06afc665e51668ae05fa8c81f62",
+      "label": "Perpetual Mess",
+      "details": "Perpetual Mess -\nCardboard Boxes X1,\nToy X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/088_growlithe_h1.png",
+      "completed": true
+    },
+    {
+      "id": "c08d24dc7e2c669707a8664d31b6",
+      "slug": "c08d24dc7e2c669707a8664d31b6",
+      "label": "Sewer-hole Inspection",
+      "details": "Sewer-hole Inspection -\nExcavation Tools X1,\nIron Pipes X1,\nSewer-hole Cover X1,\nTraffic Cone X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/211_poliwrath_h1.png",
+      "completed": false
+    },
+    {
+      "id": "c0c85f733ec875216b72949ea3dd",
+      "slug": "c0c85f733ec875216b72949ea3dd",
+      "label": "Railroad Crossing",
+      "details": "Railroad Crossing -\nCrossing Gate X1,\nRailway Track X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/193_rolycoly_h1.png",
+      "completed": true
+    },
+    {
+      "id": "c107cefcc2a88d644c8ff149095d",
+      "slug": "c107cefcc2a88d644c8ff149095d",
+      "label": null,
+      "details": "Resting Spot -\nCardboard Boxes X1,\nStraw Bed X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/084_meowth_h1.png",
+      "completed": true
+    },
+    {
+      "id": "c128cd07713aff732ecc72086022",
+      "slug": "c128cd07713aff732ecc72086022",
+      "label": null,
+      "details": "Heart-Pounding Surprise Box -\nBig Drum X1,\nBoo-in-the-box X1,\nSpotlight X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/265_meowscarada_h1.png",
+      "completed": true
+    },
+    {
+      "id": "c270d81045fe6849c5b1d201b3c0",
+      "slug": "c270d81045fe6849c5b1d201b3c0",
+      "label": "Rhythmic Living Room",
+      "details": "Rhythmic Living Room -\nMusic Mat X4,\nSpeaker X2,\nTelevision X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/255_noibat_h1.png",
+      "completed": true
+    },
+    {
+      "id": "c35b8f8b31cd4bf08cfcd5e1dcc2",
+      "slug": "c35b8f8b31cd4bf08cfcd5e1dcc2",
+      "label": "Field of Flowers",
+      "details": "Field of Flowers -\nWildflowers X8",
+      "habitatImagePath": "app/assets/poketracker/habitats/002_ivysaur_h1.png",
+      "completed": true
+    },
+    {
+      "id": "c36e1611bf6d48347463a0f46a51",
+      "slug": "c36e1611bf6d48347463a0f46a51",
+      "label": null,
+      "details": "Factory Storage -\nControl Unit X1,\nJumbled Cords X1,\nMetal Drum X1,\nStreetlight X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/027_magnemite_h1.png",
+      "completed": true
+    },
+    {
+      "id": "c4b22b17ac7d4e119715c0c67ebc",
+      "slug": "c4b22b17ac7d4e119715c0c67ebc",
+      "label": "Fireplace Nap Spot",
+      "details": "Fireplace Nap Spot -\nSeat (wide) X1,\nStone Fireplace X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/225_quilava_h2.png",
+      "completed": true
+    },
+    {
+      "id": "c4ddc86e4ecee57e4a37cac25bd8",
+      "slug": "c4ddc86e4ecee57e4a37cac25bd8",
+      "label": null,
+      "details": "Illuminated Waterfall -\nStepping Stones X3,\nTorch X2,\nWater X3,\nWaterfall X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/046_gyarados_h1.png",
+      "completed": false
+    },
+    {
+      "id": "c51c988863913d5c55c2fa4e698c",
+      "slug": "c51c988863913d5c55c2fa4e698c",
+      "label": "Park Bench",
+      "details": "Park Bench -\nGarbage Bin X1,\nSeat (wide) X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/081_zubat_h2.png",
+      "completed": true
+    },
+    {
+      "id": "c569f19036e5642de4118d911e2d",
+      "slug": "c569f19036e5642de4118d911e2d",
+      "label": "Pretty Flower Bed",
+      "details": "Pretty Flower Bed -\nWildflowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/010_pidgey_h2.png",
+      "completed": true
+    },
+    {
+      "id": "c5ed72c0f9a611e42c5d2725ce2c",
+      "slug": "c5ed72c0f9a611e42c5d2725ce2c",
+      "label": null,
+      "details": "Dinner Table Surprise -\nParty Platter X4,\nSeat (wide) X2,\nTable (large) X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/054_swalot_h1.png",
+      "completed": true
+    },
+    {
+      "id": "c8b695a2c50d4e03fc3daa727fb6",
+      "slug": "c8b695a2c50d4e03fc3daa727fb6",
+      "label": "Mini Game Corner",
+      "details": "Mini Game Corner -\nArcade Machine X1,\nPunching Game X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/028_magneton_h2.png",
+      "completed": true
+    },
+    {
+      "id": "ca328be2c026acdfd66599573d1a",
+      "slug": "ca328be2c026acdfd66599573d1a",
+      "label": "Fresh Veggie Field",
+      "details": "Fresh Veggie Field -\nVegetable Field X8",
+      "habitatImagePath": "app/assets/poketracker/habitats/063_drilbur_h1.png",
+      "completed": true
+    },
+    {
+      "id": "ca77603ca3f8c5d5254b42b21f78",
+      "slug": "ca77603ca3f8c5d5254b42b21f78",
+      "label": "House Party",
+      "details": "House Party -\nFood Counter X1,\nPaper Party Cups X1,\nPlated Food X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/155_dugtrio_h2.png",
+      "completed": true
+    },
+    {
+      "id": "cae269ea025eb3496e11541543a2",
+      "slug": "cae269ea025eb3496e11541543a2",
+      "label": "Knitting Table",
+      "details": "Knitting Table -\nKnitting Supplies X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/111_mareep_h2.png",
+      "completed": true
+    },
+    {
+      "id": "cb7e19133b42464ccd6849073fbd",
+      "slug": "cb7e19133b42464ccd6849073fbd",
+      "label": null,
+      "details": "(found via Arcanine Doll) -\n(found Via Arcanine Doll)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "ce1b45a6a161311d4673f446c527",
+      "slug": "ce1b45a6a161311d4673f446c527",
+      "label": null,
+      "details": "Overgrowth Vending Machine -\nVending Machine X1,\nYellow Tall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/111_mareep_h1.png",
+      "completed": true
+    },
+    {
+      "id": "cf05828bebaed4a9d45c0ea8c5e1",
+      "slug": "cf05828bebaed4a9d45c0ea8c5e1",
+      "label": null,
+      "details": "Floating in the Shade -\nBeach Parasol X1,\nInflatable Boat X1,\nWater X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/009_blastoise_h2.png",
+      "completed": true
+    },
+    {
+      "id": "cf3ae1a87d36d5961f8fa8c9af21",
+      "slug": "cf3ae1a87d36d5961f8fa8c9af21",
+      "label": null,
+      "details": "Chilly Shaved Ice -\n(palette Town Only),\nSeat X1,\nShaved Ice X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/287_glaceon_h1.png",
+      "completed": false
+    },
+    {
+      "id": "cfe1f7d530b38e6c1b0899f78fc8",
+      "slug": "cfe1f7d530b38e6c1b0899f78fc8",
+      "label": null,
+      "details": "Amped Rock Stage -\nCool Electric Guitar,\nSmall Stage X1,\nSpeaker X2,\nStanding Mic X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/197_toxtricity-amped-form_h1.png",
+      "completed": true
+    },
+    {
+      "id": "d0a8730973ecab213f3557da6310",
+      "slug": "d0a8730973ecab213f3557da6310",
+      "label": null,
+      "details": "Smooth Tall Grass -\nDry Tall Grass X4,\nSmooth Rock X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/030_onix_h1.png",
+      "completed": true
+    },
+    {
+      "id": "d120bb7a1ac72778264525f9727f",
+      "slug": "d120bb7a1ac72778264525f9727f",
+      "label": null,
+      "details": "Despot Fossil Display -\nDespot Fossil (head, Body, Legs, Tail),\nPedestal / Exhibition Stand X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/277_tyrantrum_h1.png",
+      "completed": true
+    },
+    {
+      "id": "d337b8c357063363b2785f35b63b",
+      "slug": "d337b8c357063363b2785f35b63b",
+      "label": "Elevated Tall Grass",
+      "details": "Elevated Tall Grass -\nHigh-up Location,\nTall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/010_pidgey_h1.png",
+      "completed": true
+    },
+    {
+      "id": "d60e6a22205c9cfb0193c0f12929",
+      "slug": "d60e6a22205c9cfb0193c0f12929",
+      "label": null,
+      "details": "Researcher's Desk -\nComputer X1,\nScience Experiment X1,\nTable X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/218_porygon_h1.png",
+      "completed": true
+    },
+    {
+      "id": "d6b3aefd7f6e59ec26eadf7287e7",
+      "slug": "d6b3aefd7f6e59ec26eadf7287e7",
+      "label": null,
+      "details": "Lovely Ribbon Cake -\n(palette Town Only),\nRibbon Cake X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/288_sylveon_h1.png",
+      "completed": false
+    },
+    {
+      "id": "d9f0ece1c8acf9925fa6757d027e",
+      "slug": "d9f0ece1c8acf9925fa6757d027e",
+      "label": "Creepy White Rocks",
+      "details": "Creepy White Rocks -\nLantern X1,\nMoss X4,\nStalagmites X1,\nWooden Crate X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/203_glimmet_h1.png",
+      "completed": true
+    },
+    {
+      "id": "da4ebadc5ca05a98ea5a6510edff",
+      "slug": "da4ebadc5ca05a98ea5a6510edff",
+      "label": "Trash Collection Site",
+      "details": "Trash Collection Site -\nGarbage Bags X1,\nSign X1,\nWaste Bin X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/038_koffing_h1.png",
+      "completed": true
+    },
+    {
+      "id": "dc0690a99f9e7d05083e08cb28dd",
+      "slug": "dc0690a99f9e7d05083e08cb28dd",
+      "label": "Tree-shaded Tall Grass",
+      "details": "Tree-shaded Tall Grass -\nLarge Tree X1,\nTall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/021_bellsprout_h1.png",
+      "completed": true
+    },
+    {
+      "id": "dd51b8a1d5eccc5cbeb1592b1a02",
+      "slug": "dd51b8a1d5eccc5cbeb1592b1a02",
+      "label": null,
+      "details": "Luxury Chirp-Chirp Meal -\nBerry Basket X1,\nBirdhouse X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/012_pidgeot_h1.png",
+      "completed": true
+    },
+    {
+      "id": "e13721e3c1ddaf9d3861c952b405",
+      "slug": "e13721e3c1ddaf9d3861c952b405",
+      "label": null,
+      "details": "Sail Fossil Display -\nPedestal / Exhibition Stand X1,\nSail Fossil X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/278_amaura_h1.png",
+      "completed": true
+    },
+    {
+      "id": "e1b0c798245b81b9f5335637ddc7",
+      "slug": "e1b0c798245b81b9f5335637ddc7",
+      "label": null,
+      "details": "Chef's Kitchen -\nCooking Stove X1,\nCutting Board X1,\nModern Sink X1,\nPlain Tabe X1,\nPlated Food X1,\nStylish Cooking Pot X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/192_greedent_h1.png",
+      "completed": true
+    },
+    {
+      "id": "e1ee34443c24aa693f42e5909543",
+      "slug": "e1ee34443c24aa693f42e5909543",
+      "label": "Concrete Pipe Secret Base",
+      "details": "Concrete Pipe Secret Base -\nConcrete Pipe X2,\nTall Grass X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/224_cyndaquil_h1.png",
+      "completed": true
+    },
+    {
+      "id": "e35031c34f48a523a1457808c446",
+      "slug": "e35031c34f48a523a1457808c446",
+      "label": null,
+      "details": "Waterside Dinghy -\nCanoe X1,\nDuckweed X2,\nHigh-up Location,\nWater X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/223_dragonite_h1.png",
+      "completed": true
+    },
+    {
+      "id": "e65436c8d9eba1d614a889939bdb",
+      "slug": "e65436c8d9eba1d614a889939bdb",
+      "label": null,
+      "details": "Burning-hot Spice -\n(palette Town Only),\nPizza X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/283_flareon_h1.png",
+      "completed": false
+    },
+    {
+      "id": "e6a1aaee561b379ac1d53e368ad2",
+      "slug": "e6a1aaee561b379ac1d53e368ad2",
+      "label": "Grave with Flowers",
+      "details": "Grave with Flowers -\nGravestone X1,\nWildflowers X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/032_cubone_h1.png",
+      "completed": true
+    },
+    {
+      "id": "e93b7a623d92f155e29eaff919c8",
+      "slug": "e93b7a623d92f155e29eaff919c8",
+      "label": "Elevated Flower Bed",
+      "details": "Elevated Flower Bed -\nHigh-up Location,\nWildflowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/017_paras_h1.png",
+      "completed": true
+    },
+    {
+      "id": "e9fc724f9d3097901680465876e5",
+      "slug": "e9fc724f9d3097901680465876e5",
+      "label": null,
+      "details": "Night Festival Venue -\nBalloons X2,\nRaichu Sign X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/112_flaaffy_h1.png",
+      "completed": false
+    },
+    {
+      "id": "eab30bc0178f6e82e3008adb23cd",
+      "slug": "eab30bc0178f6e82e3008adb23cd",
+      "label": null,
+      "details": "Lazy Photo-album Scrolling -\nPaper Party Cups X1,\nTablet X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/196_toxel_h1.png",
+      "completed": true
+    },
+    {
+      "id": "eb4f105e3c72c3af6906a2523e65",
+      "slug": "eb4f105e3c72c3af6906a2523e65",
+      "label": null,
+      "details": "Construction Site Generator -\nFurnace X1,\nIron Pipes X1,\nIron Scaffold X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/067_conkeldurr_h1.png",
+      "completed": true
+    },
+    {
+      "id": "ec51daf4f5b4131c2eb9f2898b79",
+      "slug": "ec51daf4f5b4131c2eb9f2898b79",
+      "label": "Lumberjack's Workplace",
+      "details": "Lumberjack's Workplace -\nCart X1,\nLog Chair X1,\nLog Table X1,\nTree Stump X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/071_axew_h1.png",
+      "completed": true
+    },
+    {
+      "id": "ec68ce5225c546fe7b2048c06959",
+      "slug": "ec68ce5225c546fe7b2048c06959",
+      "label": "Fluffy Flower Bed",
+      "details": "Fluffy Flower Bed -\nSkyland Flowers X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/207_vulpix_h1.png",
+      "completed": true
+    },
+    {
+      "id": "ed74ee428d4753fa7479d0f94160",
+      "slug": "ed74ee428d4753fa7479d0f94160",
+      "label": null,
+      "details": "Nature's Market -\nAsh Register X1,\nLarge Boulder X1,\nLarge Tree X1,\nTable X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/080_raichu_h1.png",
+      "completed": true
+    },
+    {
+      "id": "ed995daee2816b5a99e589aace15",
+      "slug": "ed995daee2816b5a99e589aace15",
+      "label": "Chansey Resting Area",
+      "details": "Chansey Resting Area -\nChansey Plant X1,\nHedge X6,\nSeat (wide) X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/015_vileplume_h1.png",
+      "completed": true
+    },
+    {
+      "id": "ede96b1adc6379b00bd57990903a",
+      "slug": "ede96b1adc6379b00bd57990903a",
+      "label": null,
+      "details": "Leafy Greens Sandwich -\n(palette Town Only),\nSandwiches X1,\nSeat X1,\nTable X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/286_leafeon_h1.png",
+      "completed": false
+    },
+    {
+      "id": "ee236bae1a81f4f4a152944fd827",
+      "slug": "ee236bae1a81f4f4a152944fd827",
+      "label": "Chirp-chirp Meal",
+      "details": "Chirp-chirp Meal -\nPlated Food X1,\nTable X1,\nWooden Birdhouse X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/120_torchic_h1.png",
+      "completed": true
+    },
+    {
+      "id": "f02575f677580ec7b72d31934eba",
+      "slug": "f02575f677580ec7b72d31934eba",
+      "label": null,
+      "details": "Rain Dance Site -\nCastform Weather Charm (rain) X2,\nPlated Food X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/074_goomy_h2.png",
+      "completed": true
+    },
+    {
+      "id": "f0458cd716b09ae0c134e7f3d626",
+      "slug": "f0458cd716b09ae0c134e7f3d626",
+      "label": "Mossy Rest Spot",
+      "details": "Mossy Rest Spot -\nMoss X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/169_larvitar_h1.png",
+      "completed": true
+    },
+    {
+      "id": "f05b069d40cb871a1c3709cedf2d",
+      "slug": "f05b069d40cb871a1c3709cedf2d",
+      "label": null,
+      "details": "Plush Central -\nArcanine Doll X1,\nDragonite Doll X1,\nEevee Doll X1,\nPikachu Doll X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/062_drifblim_h1.png",
+      "completed": true
+    },
+    {
+      "id": "f1584b137f95cf615f584f63a4fb",
+      "slug": "f1584b137f95cf615f584f63a4fb",
+      "label": null,
+      "details": "(found via Withered Wasteland mission) -\n(found Via Withered Wasteland Mission)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "f214aae24b7ce2d25cb2145af50c",
+      "slug": "f214aae24b7ce2d25cb2145af50c",
+      "label": null,
+      "details": "Tundra Fossil Display -\nPedestal / Exhibition Stand X2,\nTundra Fossil (head, Body, Tail)",
+      "habitatImagePath": "app/assets/poketracker/habitats/279_aurorus_h1.png",
+      "completed": true
+    },
+    {
+      "id": "f36c8b8206ac6a2ddde7c6fd4c52",
+      "slug": "f36c8b8206ac6a2ddde7c6fd4c52",
+      "label": "Moisturizing Makeup Stand",
+      "details": "Moisturizing Makeup Stand -\nDresser X1,\nHumidifier X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/232_kirlia_h2.png",
+      "completed": true
+    },
+    {
+      "id": "f7d323ba7da421c1c3900f707307",
+      "slug": "f7d323ba7da421c1c3900f707307",
+      "label": "Vending Machine Set",
+      "details": "Vending Machine Set -\nVending Machine X1,\nWaste Bin X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/103_elekid_h1.png",
+      "completed": true
+    },
+    {
+      "id": "f8ad8aba51ec2e2c487df7947b31",
+      "slug": "f8ad8aba51ec2e2c487df7947b31",
+      "label": "Dock",
+      "details": "Dock -\nOcean Water X2,\nStreetlight X1,\nWalkway X4",
+      "habitatImagePath": "app/assets/poketracker/habitats/115_marill_h2.png",
+      "completed": true
+    },
+    {
+      "id": "f8d938037ea6786e45b869738757",
+      "slug": "f8d938037ea6786e45b869738757",
+      "label": "Ocean Fishing Spot",
+      "details": "Ocean Fishing Spot -\nFishing Rod X1,\nOcean Water X1,\nSeat X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/045_magikarp_h1.png",
+      "completed": true
+    },
+    {
+      "id": "fb3b26adef7c77c3d17b27b9cefe",
+      "slug": "fb3b26adef7c77c3d17b27b9cefe",
+      "label": null,
+      "details": "(must build Frozen Chambers) -\n(must Build Frozen Chambers)",
+      "habitatImagePath": null,
+      "completed": false
+    },
+    {
+      "id": "fb6bb194400a3b6b03d50792066d",
+      "slug": "fb6bb194400a3b6b03d50792066d",
+      "label": null,
+      "details": "Open-air Bath -\nHot-srping Spout X1,\nHot-srping Water X2",
+      "habitatImagePath": "app/assets/poketracker/habitats/189_raboot_h1.png",
+      "completed": true
+    },
+    {
+      "id": "fd7bc8dc4e755bd06b4515693577",
+      "slug": "fd7bc8dc4e755bd06b4515693577",
+      "label": null,
+      "details": "Changing Area -\nCloset X1,\nMirror (large) X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/136_minccino_h1.png",
+      "completed": true
+    },
+    {
+      "id": "fefd914f74941750fe608d88e718",
+      "slug": "fefd914f74941750fe608d88e718",
+      "label": "Bronze Landmark",
+      "details": "Bronze Landmark -\nHedge X4,\nMoonlight Dance Statue X1,\nSign X1",
+      "habitatImagePath": "app/assets/poketracker/habitats/149_clefairy_h2.png",
+      "completed": true
+    }
+  ]
+}
