@@ -371,6 +371,26 @@ body {
   color: var(--text-primary);
 }
 
+.top-nav__install-btn {
+  flex-shrink: 0;
+  padding: 0.45rem 1rem;
+  border: 1px solid var(--cozy-teal);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--cozy-teal);
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.15s;
+  white-space: nowrap;
+}
+
+.top-nav__install-btn:hover {
+  background: var(--cozy-teal);
+  color: white;
+}
+
 /* Master detail */
 .master-detail {
   display: flex;

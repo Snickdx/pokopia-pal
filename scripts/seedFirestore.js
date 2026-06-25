@@ -385,22 +385,28 @@ function buildCatalog() {
     });
   }
 
-  const categoryHabitatIds = new Map();
-  for (const pref of preferences) {
-    if (categoryHabitatIds.has(pref.categoryId)) continue;
-    const categoryPrefs = preferences.filter((x) => x.categoryId === pref.categoryId);
-    const categoryPrefSlugs = new Set(categoryPrefs.map((x) => x.id));
-    const habitatSet = new Set();
-    for (const mon of pokemonDocs) {
-      const sharesCategory = mon.preferenceIds.some((s) => categoryPrefSlugs.has(s));
-      if (!sharesCategory) continue;
-      for (const hid of mon.habitatIds) habitatSet.add(hid);
+  const itemNameToSlug = new Map();
+  for (const [id, it] of itemsMap) {
+    itemNameToSlug.set(it.name.toLowerCase(), id);
+  }
+
+  for (const doc of habitatDocs.values()) {
+    const detail = (doc.details || '').toLowerCase();
+    for (const [name, slug] of itemNameToSlug) {
+      if (detail.includes(name)) {
+        doc.itemIds.push(slug);
+      }
     }
-    categoryHabitatIds.set(pref.categoryId, [...habitatSet].sort());
+    doc.itemIds = [...new Set(doc.itemIds)].sort();
   }
 
   for (const pref of preferences) {
-    pref.habitatIds = categoryHabitatIds.get(pref.categoryId) || [];
+    const habitatSet = new Set();
+    for (const doc of habitatDocs.values()) {
+      const hasMatchingItem = doc.itemIds.some((itemId) => pref.itemIds.includes(itemId));
+      if (hasMatchingItem) habitatSet.add(doc.id);
+    }
+    pref.habitatIds = [...habitatSet].sort();
     pref.counts = {
       habitats: pref.habitatIds.length,
       items: pref.itemIds.length,
@@ -408,14 +414,27 @@ function buildCatalog() {
     };
   }
 
-  for (const doc of habitatDocs.values()) {
-    doc.pokemonIds = [...new Set(doc.pokemonIds)].sort();
-    doc.preferenceIds = [...new Set(doc.preferenceIds)].sort();
+  for (const pref of preferences) {
+    if (pref.categoryId !== 'flavor') continue;
+    for (const doc of habitatDocs.values()) {
+      if ((doc.details || '').toLowerCase().includes('plated food')) {
+        if (!pref.habitatIds.includes(doc.id)) pref.habitatIds.push(doc.id);
+      }
+    }
+    pref.counts.habitats = pref.habitatIds.length;
   }
 
-  const itemNameToSlug = new Map();
-  for (const [id, it] of itemsMap) {
-    itemNameToSlug.set(it.name.toLowerCase(), id);
+  for (const doc of habitatDocs.values()) {
+    doc.pokemonIds = [...new Set(doc.pokemonIds)].sort();
+    for (const itemId of doc.itemIds) {
+      const item = itemsMap.get(itemId);
+      if (item) {
+        for (const prefId of item.preferenceIds) {
+          if (!doc.preferenceIds.includes(prefId)) doc.preferenceIds.push(prefId);
+        }
+      }
+    }
+    doc.preferenceIds = [...new Set(doc.preferenceIds)].sort();
   }
 
   const legacyToRoute = new Map();
@@ -427,13 +446,6 @@ function buildCatalog() {
 
   const normalizeHabitatIds = (ids) =>
     [...new Set(ids.map((id) => legacyToRoute.get(id) || id))].sort();
-
-  for (const doc of habitatDocs.values()) {
-    for (const prefId of doc.preferenceIds) {
-      const pref = preferenceBySlug.get(prefId);
-      if (pref && !pref.habitatIds.includes(doc.id)) pref.habitatIds.push(doc.id);
-    }
-  }
 
   for (const pref of preferences) {
     pref.habitatIds = normalizeHabitatIds(pref.habitatIds);

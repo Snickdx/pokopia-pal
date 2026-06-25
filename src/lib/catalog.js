@@ -10,12 +10,12 @@ import {
 } from 'firebase/firestore';
 import { getDb, isFirebaseConfigured } from './firebase.js';
 import { buildPreferencesFromExport } from './localCatalog.js';
-import { cacheFetch, catalogKey } from './catalogCache.js';
 import {
   habitatDedupSlug,
   habitatTitle,
   isSpecialEncounterHabitat,
 } from './normalize.js';
+import { cacheFetch, cacheSet, catalogKey } from './catalogCache.js';
 import { mergeCraftCatalogItems, getCraftCatalogItem } from './craftCatalog.js';
 
 export {
@@ -35,6 +35,13 @@ function col(name) {
 async function safeQuery(q) {
   const snap = await getDocs(q);
   return snap.docs.map((d) => ({ id: d.id, ...d.data() }));
+}
+
+function seedIndividualCache(collection, docs, getId) {
+  for (const doc of docs) {
+    const id = getId(doc);
+    if (id) cacheSet(catalogKey(collection, id), doc);
+  }
 }
 
 function isLegacyHashId(id) {
@@ -139,7 +146,10 @@ async function fetchPreferences() {
   try {
     const q = query(col('preferences'), orderBy('sortKey'));
     const rows = asArray(await safeQuery(q));
-    if (rows.length > 0) return rows;
+    if (rows.length > 0) {
+      seedIndividualCache('preference', rows, (d) => d.id);
+      return rows;
+    }
     return local();
   } catch (err) {
     console.warn('Firestore preferences unavailable, using local export.', err);
@@ -167,7 +177,9 @@ async function fetchHabitats() {
   } catch {
     rows = await safeQuery(col('habitats'));
   }
-  return dedupeHabitats(rows);
+  const deduped = await dedupeHabitats(rows);
+  seedIndividualCache('habitat', deduped, (d) => d.id);
+  return deduped;
 }
 
 export async function getHabitat(idOrSlug) {
@@ -193,7 +205,10 @@ export async function getItems() {
 async function fetchItems() {
   if (!isFirebaseConfigured()) return mergeCraftCatalogItems([]);
   const q = query(col('items'), orderBy('name'));
-  return mergeCraftCatalogItems(await safeQuery(q));
+  const rows = await safeQuery(q);
+  const merged = mergeCraftCatalogItems(rows);
+  seedIndividualCache('item', merged, (d) => d.id);
+  return merged;
 }
 
 export async function getItem(idOrSlug) {
@@ -220,11 +235,14 @@ export async function getPokemonList() {
 async function fetchPokemonList() {
   if (!isFirebaseConfigured()) return [];
   const q = query(col('pokemon'), orderBy('dexSort'), orderBy('name'));
+  let rows;
   try {
-    return await safeQuery(q);
+    rows = await safeQuery(q);
   } catch {
-    return safeQuery(col('pokemon'));
+    rows = await safeQuery(col('pokemon'));
   }
+  seedIndividualCache('pokemon', rows, (d) => d.id);
+  return rows;
 }
 
 export async function getPokemon(idOrSlug) {

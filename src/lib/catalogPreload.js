@@ -1,4 +1,3 @@
-import { hydrateCatalogCache } from './catalogCache.js';
 import {
   getPreferences,
   getHabitats,
@@ -6,9 +5,11 @@ import {
   getPokemonList,
 } from './catalog.js';
 
-/** Restore IDB snapshots and prefetch main catalog collections when online. */
+/** Prefetch main catalog collections at startup so Firestore SDK local cache is warm. */
 export async function initCatalogCache() {
-  await hydrateCatalogCache();
+  if (typeof indexedDB !== 'undefined') {
+    try { await indexedDB.deleteDatabase('pokopia-pal-catalog'); } catch { /* ignore */ }
+  }
 
   if (typeof navigator !== 'undefined' && navigator.onLine === false) {
     return;

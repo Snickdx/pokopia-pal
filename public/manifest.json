@@ -52,6 +52,66 @@
 
     }
 
+  ],
+
+  "screenshots": [
+
+    {
+
+      "src": "/desktop_1.png",
+
+      "sizes": "1920x1080",
+
+      "type": "image/png",
+
+      "form_factor": "wide",
+
+      "label": "Pokopia Pal item catalog on desktop"
+
+    },
+
+    {
+
+      "src": "/desktop_2.png",
+
+      "sizes": "1920x1080",
+
+      "type": "image/png",
+
+      "form_factor": "wide",
+
+      "label": "Pokopia Pal detail view on desktop"
+
+    },
+
+    {
+
+      "src": "/phone1.png",
+
+      "sizes": "1442x3203",
+
+      "type": "image/png",
+
+      "form_factor": "narrow",
+
+      "label": "Pokopia Pal item catalog on mobile"
+
+    },
+
+    {
+
+      "src": "/phone2.png",
+
+      "sizes": "1442x3202",
+
+      "type": "image/png",
+
+      "form_factor": "narrow",
+
+      "label": "Pokopia Pal detail view on mobile"
+
+    }
+
   ]
 
 }

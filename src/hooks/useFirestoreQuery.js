@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { cacheEnsure, cachePeek } from '../lib/catalogCache.js';
+import { cachePeek } from '../lib/catalogCache.js';
 
 /**
  * @param {() => Promise<T>} fetcher
@@ -12,30 +12,18 @@ export function useFirestoreQuery(fetcher, deps = [], options = {}) {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [isRefreshing, setIsRefreshing] = useState(false);
 
   useEffect(() => {
     let cancelled = false;
 
     async function run() {
-      if (cacheKey) {
-        await cacheEnsure(cacheKey);
-        if (cancelled) return;
-
-        const cached = cachePeek(cacheKey);
-        if (cached !== undefined) {
-          setData(cached);
-          setLoading(false);
-          setIsRefreshing(true);
-        } else {
-          setData(null);
-          setLoading(true);
-          setIsRefreshing(false);
-        }
+      const cached = cacheKey ? cachePeek(cacheKey) : undefined;
+      if (cached !== undefined) {
+        setData(cached);
+        setLoading(false);
       } else {
         setData(null);
         setLoading(true);
-        setIsRefreshing(false);
       }
 
       setError(null);
@@ -45,13 +33,11 @@ export function useFirestoreQuery(fetcher, deps = [], options = {}) {
         if (!cancelled) {
           setData(result);
           setLoading(false);
-          setIsRefreshing(false);
         }
       } catch (err) {
         if (!cancelled) {
           setError(err);
           setLoading(false);
-          setIsRefreshing(false);
         }
       }
     }
@@ -64,5 +50,5 @@ export function useFirestoreQuery(fetcher, deps = [], options = {}) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [cacheKey, ...deps]);
 
-  return { data, loading, error, isRefreshing };
+  return { data, loading, error };
 }

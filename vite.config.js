@@ -16,8 +16,14 @@ export default defineConfig({
         'favicon-16.png',
         'apple-touch-icon.png',
         'manifest.json',
+        'pwa-192x192.png',
+        'pwa-512x512.png',
         'assets/branding/logo.png',
         'assets/branding/logo-nav.png',
+        'desktop_1.png',
+        'desktop_2.png',
+        'phone1.png',
+        'phone2.png',
       ],
       manifest: {
         name: APP_FULL_NAME,
@@ -39,6 +45,36 @@ export default defineConfig({
             purpose: 'maskable',
           },
         ],
+        screenshots: [
+          {
+            src: 'desktop_1.png',
+            sizes: '1920x1080',
+            type: 'image/png',
+            form_factor: 'wide',
+            label: 'Pokopia Pal item catalog on desktop',
+          },
+          {
+            src: 'desktop_2.png',
+            sizes: '1920x1080',
+            type: 'image/png',
+            form_factor: 'wide',
+            label: 'Pokopia Pal detail view on desktop',
+          },
+          {
+            src: 'phone1.png',
+            sizes: '1442x3203',
+            type: 'image/png',
+            form_factor: 'narrow',
+            label: 'Pokopia Pal item catalog on mobile',
+          },
+          {
+            src: 'phone2.png',
+            sizes: '1442x3202',
+            type: 'image/png',
+            form_factor: 'narrow',
+            label: 'Pokopia Pal detail view on mobile',
+          },
+        ],
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg,webp,woff2}'],
@@ -48,12 +84,51 @@ export default defineConfig({
             urlPattern: /\/assets\/poketracker\/.+\.(?:png|webp|jpg|jpeg)$/i,
             handler: 'CacheFirst',
             options: {
-              cacheName: 'pokopia-sprites',
+              cacheName: 'poketracker-assets',
               expiration: {
-                maxEntries: 2500,
+                maxEntries: 3000,
                 maxAgeSeconds: 60 * 60 * 24 * 30,
               },
               cacheableResponse: { statuses: [0, 200] },
+              plugins: [
+                {
+                  handlerDidError: () => caches.match('pwa-192x192.png'),
+                },
+              ],
+            },
+          },
+          {
+            urlPattern: /\/assets\/pokemon-favorites\/images\/.+\.(?:png|webp|jpg|jpeg)$/i,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'pokemon-favorites',
+              expiration: {
+                maxEntries: 500,
+                maxAgeSeconds: 60 * 60 * 24 * 30,
+              },
+              cacheableResponse: { statuses: [0, 200] },
+              plugins: [
+                {
+                  handlerDidError: () => caches.match('pwa-192x192.png'),
+                },
+              ],
+            },
+          },
+          {
+            urlPattern: /^https:\/\/(?:pokopiaguide\.com|www\.serebii\.net)\/.+\.(?:png|webp|jpg|jpeg)$/i,
+            handler: 'StaleWhileRevalidate',
+            options: {
+              cacheName: 'external-images',
+              expiration: {
+                maxEntries: 500,
+                maxAgeSeconds: 60 * 60 * 24 * 7,
+              },
+              cacheableResponse: { statuses: [0, 200] },
+              plugins: [
+                {
+                  handlerDidError: () => caches.match('pwa-192x192.png'),
+                },
+              ],
             },
           },
         ],
