@@ -27,8 +27,8 @@ Game data and artwork in this project are compiled from community trackers and f
 
 | What | Primary source |
 |------|----------------|
-| Pokémon species, abilities, habitat links, favorite tags | Community **Pokopia PokéTracker** spreadsheet → `data/pokemon.json` |
-| Habitat recipes & labels | Same PokéTracker export → `data/habitats.json` |
+| Pokémon species, abilities, habitat links, favorite tags | Community [Pokopia tracker spreadsheet](https://docs.google.com/spreadsheets/d/1YbVctFDD0irBiHuOg0eDDq5k_DQR4ToR5DcTLB3I5Jk/edit?usp=sharing) ([r/Pokopia thread](https://www.reddit.com/r/Pokopia/comments/1rtn63e/i_made_the_ultimate_spreadsheet_for_pokopia/)) → `data/pokemon.json` |
+| Habitat recipes & labels | Same community tracker (habitat tab also cross-referenced with [this supplement sheet](https://docs.google.com/spreadsheets/d/11C2mggkHhnmgJj_eAO-OK0W-rVIPiVGBjpQ4ZdVPoiA/edit?usp=sharing)) → `data/habitats.json` |
 | Preference categories & favorite→item mappings | [Pokopia Guide — Pokémon favorites](https://pokopiaguide.com/guides/pokemon-favorites-guide) → `data/favoriteCategories.json` |
 | Craftable item IDs & names | [Serebii — Pokopia crafting list](https://www.serebii.net/pokemonpokopia/crafting.shtml) → `data/allCraftItems.json` |
 | Item craft categories & furniture types | Merged from [Pokopia Guide items](https://pokopiaguide.com/items), [Serebii crafting](https://www.serebii.net/pokemonpokopia/crafting.shtml), and [Serebii items](https://www.serebii.net/pokemonpokopia/items.shtml) → `src/data/itemCraftCategories.json` (`npm run fetch:categories`) |
@@ -44,8 +44,8 @@ The hosted app reads Pokémon, habitats, and preferences from Firestore when see
 
 | Asset | Downloaded from |
 |-------|-----------------|
-| Pokémon sprites | [Serebii — Pokopia Pokémon sprites](https://www.serebii.net/pokemonpokopia/pokemon/small/) (PokéTracker `IMAGE()` URLs in the spreadsheet) |
-| Habitat preview images | Embedded in the PokéTracker spreadsheet (`.xlsx` drawing/media) |
+| Pokémon sprites | [Serebii — Pokopia Pokémon sprites](https://www.serebii.net/pokemonpokopia/pokemon/small/) (`IMAGE()` URLs in the [community tracker spreadsheet](https://docs.google.com/spreadsheets/d/1YbVctFDD0irBiHuOg0eDDq5k_DQR4ToR5DcTLB3I5Jk/edit?usp=sharing)) |
+| Habitat preview images | Embedded in the community tracker spreadsheet (`.xlsx` drawing/media) |
 | Craft & favorite item icons | [Pokopia Guide item images](https://pokopiaguide.com/images/items/) (`item-*.png`), with fallback to [Serebii item PNGs](https://www.serebii.net/pokemonpokopia/items/) |
 | Cooking recipe & ingredient art | Pokopia Guide (`/assets/pokemon-favorites/images/cooking/…`) |
 | Dream Island / crafting materials | Serebii item art (`/assets/pokemon-favorites/images/materials/…`) |
